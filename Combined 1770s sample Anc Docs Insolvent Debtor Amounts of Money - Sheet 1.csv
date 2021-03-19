@@ -1,0 +1,1361 @@
+ID #,Insolvent Name,Doc. #,pg #,Record Type,month,day,year,Type,#,Full Name,1 Petitioning,1 Occupation,1 Location,1 Prefix,1 First,1 Middle,1 Last,1 Suffix,1 alt sp,type,#,2 Full Name,2 petitioning,2 Occupation,2 Location, 2 Prefix,2 First,2 Middle, 2 Last,2 Suffix,2 alt sp,Pounds,Shillings,Pence, Type of credit or debt,comments,(pounds*240)+(shillings *12)+(pence)
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr1,Morris,,Colonel,,,,,Morris,,,,,,,,,,,,,,,22,0,0,,,5280
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr2,Thomas Franklin,,,,,Thomas,,Franklin,,,,,,,,,,,,,,,9,0,0,,,2160
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr3,Gabriel Winter,,,,,Gabriel,,Winter,,,,,,,,,,,,,,,1,10,0,,,360
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr4,John Reman,,,,,John,,Reman,,,,,,,,,,,,,,,6,6,0,,,1512
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr5,Gabriel Rundie,,,,,Gabriel,,Rundie,,,,,,,,,,,,,,,1,10,0,account unsettled,,360
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr6,Alburtes Tuttle,,,,,Alburtes,,Tuttle,,,,,,,,,,,,,,,0,8,0,,,96
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr7,William Keetch,,,,,William,,Keetch,,,,,,,,,,,,,,,1,0,0,,,240
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr8,John William,,,,,John,,Williams,,,,,,,,,,,,,,,0,7,0,,,84
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr9,Isaac Garrison,,,,,Isaac,,Garrison,,,,,,,,,,,,,,,0,6,0,,,72
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr10,Joseph Brown,,,,,Joseph,,Brown,,,,,,,,,,,,,,,1,10,0,,,360
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr11,Joseph Huntice,,,,,Joseph,,Huntice,,,,,,,,,,,,,,,0,3,0,,,36
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr12,Killburn,,,,Widow,,,Killburn,,,,,,,,,,,,,,,0,6,0,,,72
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr13,Britt 1,,Major,,,,,Britt,,,,,,,,,,,,,,,0,10,0,,,120
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr14,Griffen,,Smith,,,Griffen,,,,,,,,,,,,,,,,,0,3,6,,,42
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr15,James Weeks,,,,,James,,Weeks,,,,,,,,,,,,,,,5,0,0,,,1200
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr16,Daniel Bardsill,,,,,Daniel,,Bardsill,,,,,,,,,,,,,,,10,0,0,,,2400
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr17,Justice Hause,,,,,Justice,,Hause,,,,,,,,,,,,,,,5,0,0,,,1200
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr18,John Turner,,,,,John,,Turner,,,,,,,,,,,,,,,2,12,0,,,624
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr19,Bloomer Ogden,,,,,Bloomer,,Ogden,,,,,,,,,,,,,,,1,10,0,,,360
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr20,Stanley,,Doctor,,,,,Stanley,,,,,,,,,,,,,,,,,,account unsettled,,
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr21,Jesse Trusdil,,,,,Jesse,,Trusdil,,,,,,,,,,,,,,,17,0,0,,,4080
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr22,John Hammon,,,,,John,,Hammon,,,,,,,,,,,,,,,0,3,6,,,42
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr23,Martinus Wyant,,,,,Martinus,,Wyant,,,,,,,,,,,,,,,0,3,0,,,36
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr24,Harris,,,Chamber Creek,,Harris,,,,,,,,,,,,,,,,,1,9,0,,,348
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr25,Isaac Shellts,,,,,Isaac,,Shellts,,,,,,,,,,,,,,,0,6,0,account unsettled,,72
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr26,Francis Mandevill,,,,,Francis,,Mandevill,,,,,,,,,,,,,,,1,0,0,,,240
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr27,Benjamin Canfield,,,,,Benjamin,,Canfield,,,,,,,,,,,,,,,1,10,0,,,360
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr28,John Lumeriex,,,,,John,,Lumeriex,,,,,,,,,,,,,,,0,4,0,,,48
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr29,William Miller,,,,,William,,Miller,,,,,,,,,,,,,,,0,15,0,,,180
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr30,Cary Ludlow,,,,,Cary,,Ludlow,,,,,,,,,,,,,,,26,0,0,,,6240
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr31,John Kay,,,,,John,,Kay,,,,,,,,,,,,,,,1,0,0,,,240
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr32,Zackeria Sickles,,,,,Zackeria,,Sickles,,,,,,,,,,,,,,,5,0,0,,,1200
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr33,Martha Harrington,,,,,Martha,,Harrington,,,,,,,,,,,,,,,1,10,0,,,360
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr34,Peter Williams,,,,,Peter,,Williams,,,,,,,,,,,,,,,5,0,0,,,1200
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr35,Jacob Lentz,,,,,Jacob,,Lentz,,,,,,,,,,,,,,,,,,account unsettled,,
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr36,Michael Mannigo,,,,,Michael,,Mannigo,,,,,,,,,,,,,,,0,18,0,,,216
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr37,James Leary,,,,,James,,Leary,,,,,,,,,,,,,,,,,,account unsettled,,
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr38,Thomas Davenport,,,,,Thomas,,Davenport,,,,,,,,,,,,,,,1,0,0,,,240
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr39,Deboys,,Captain,,,,,Deboys,,,,,,,,,,,,,,,0,2,6,,,30
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr175,Jacobus Depeyster,,,,,Jacob,,Depyster,,,,,,,,,,,,,,,,,,account unsettled,,
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr41,Clump,,Taylor,,,Clump,,,,,,,,,,,,,,,,,1,0,0,,,240
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr42,Joseph Traverse,,,,,Joseph,,Traverse,,,,,,,,,,,,,,,30,6,6,,,7278
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr43,Ralph Thomas,,,,,Ralph,,Thomas,,,,,,,,,,,,,,,40,0,3,,,9603
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr44,Charles Moore,,,,,Charles,,Moore,,,,,,,,,,,,,,,2,0,0,,,480
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr45,Dunken Curry,,,,,Dunken,,Curry,,,,,,,,,,,,,,,,,,,crossed out,
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr46,Robert Ogden,,,,,Robert,,Ogden,,,,,,,,,,,,,,,2,0,6,,,486
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr47,Hannah Knapp,,,,,Hannah,,Knapp,,,,,,,,,,,,,,,,,,account unsettled,,
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr48,Gilbert Drake,,,,,Gilbert,,Drake,,,,,,,,,,,,,,,1,0,0,,,240
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr49,Samuel Fowler,,,,,Samuel,,Fowler,,,,,,,,,,,,,,,3,0,0,,,720
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr50,Lawrence,,Blacksmith,,,Lawrence,,,,,,,,,,,,,,,,,0,6,0,,,72
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr51,Stephen Hooper,,,,,Stephen,,Hooper,,,,,,,,,,,,,,,0,4,0,account unsettled,,48
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr52,William Cales,,,,,William,,Cales,,,,,,,,,,,,,,,2,3,0,,[torn],516
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr53,John Arton,,,,,John,,Arton,,,,,,,,,,,,,,,2,5,0,,,540
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr54,David Sanse,,,,,David,,Sanse,,,,,,,,,,,,,,,,,,account unsettled,,
+ID2,John Bloomer,6920A,1,Account of Creditors,10,4,1770,Creditor,cr55,Jonathan Miller,,,,,Jonathan,,Miller,,,,,,,,,,,,,,,1,10,0,,,360
+ID2,John Bloomer,6920E,,Inventory,10,4,1770,Debtor,dr1,Thomas Parr,,,,,Thomas,,Parr,,,,,,,,,,,,,,,2,0,0,Saddle,,
+ID2,John Bloomer,6920E,,Inventory,10,4,1770,Debtor,dr1,Thomas Parr,,,,,Thomas,,Parr,,,,,,,,,,,,,,,2,0,0,Gun,,
+ID2,John Bloomer,6920E,,Inventory,10,4,1770,Debtor,dr2,Tunas Deboys,,,,,Tunas,,Deboys,,,,,,,,,,,,,,,1,2,0,one thousand staves and hadring,,264
+ID2,John Bloomer,6920E,,Inventory,10,4,1770,Debtor,dr3,Seah Wooddn,,,,,Seah,,Wooddn,,,,,,,,,,,,,,,0,4,0,,,48
+ID2,John Bloomer,6920E,,Inventory,10,4,1770,Debtor,dr4,Thomas Clark,,,,,Thomas,,Clark,,,,,,,,,,,,,,,0,10,0,,,120
+ID2,John Bloomer,6920E,,Inventory,10,4,1770,Debtor,dr5,Roger Tomkins,,,,,Roger,,Tomkins,,,,,,,,,,,,,,,,,,accompls on settled,,0
+ID2,John Bloomer,6920E,,Inventory,10,4,1770,Debtor,dr6,Stephen Holly,,,Letelseld ,,Stephen,,Holly,,,,,,,,,,,,,,,,,,an obligation against,,0
+ID2,John Bloomer,6920E,,Inventory,10,4,1770,Debtor,dr1,Thomas Parr,,,Cortland Manor,,Thomas,,Parr,,,,,,,,,,,,,,,100,0,0,"an obligation against,",see bond 6920B,24000
+ID2,John Bloomer,6920E,,Inventory,10,4,1770,Debtor,dr8,Thomas Strickland,,,Poughkeepsie,,Thomas,,Strickland,,,,,,,,,,,,,,,25,0,0,a bond of 15 pounds and a note of 10 pounds against deceased, see 6920F and 6920G ,6000
+ID2,John Bloomer,6920E,,Inventory,10,4,1770,Debtor,dr9,Joseph Bloomer,,,,,Joseph,,Bloomer,,,,,,,,,,,,,,,0,9,0,sawing of staves,,108
+ID2,John Bloomer,6920E,,Inventory,10,4,1770,Debtor,dr10,Benjamin Jacobs,,,,,Benjamin,,Jacobs,,,,,,,,,,,,,,,0,15,6,two pair of shoes,,186
+ID4,Daniel Culver,6963B,,Account of Creditors,5,24,1771,Creditor,cr56,Joshua Bennet,1,,,,Joshua,,Benit,,Joshua Bennet,,,,,,,,,,,,,82,0,0,,(6973 petition says 62.0.0),19680
+ID4,Daniel Culver,6963B,,Account of Creditors,5,24,1771,Creditor,cr57,James Birdsie,,,,,James,,Birdsie,,James Burdsill,,,,,,,,,,,,,2,12,0,,(6973 petition says 3.0.0),624
+ID4,Daniel Culver,6963B,,Account of Creditors,5,24,1771,Creditor,cr58,Benjamin Hatch,,,,,Benjamin,,Hatch,,,,,,,,,,,,,,,7,0,0,,,1680
+ID4,Daniel Culver,6963B,,Account of Creditors,5,24,1771,Creditor,cr59,Simeon Bush,,,,,Simeon,,Bush,,,,,,,,,,,,,,,4,5,0,,,1020
+ID4,Daniel Culver,6973,,Account of Creditors,5,24,1771,Creditor,cr60,Beardsly,,,,Mr.,,,Beardsly,,,,,,,,,,,,,,,3,0,0,,,720
+ID4,Daniel Culver,6973,,Account of Creditors,5,24,1771,Creditor,cr61,Elihu Rufull,,,,,Elihu,,Rufull,,,,,,,,,,,,,,,2,0,0,,,480
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr62,Bartholomew Noxon Jr.,,,,,Bartholomew,,Noxon,Jr.,,,,,,,,,,,,,,13,5,8,,,3188
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr63,William Gifford,,,,,William,,Gifford,,,,,,,,,,,,,,,10,14,5,,,2573
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr64,Charles Vincent,,,,,Charles,,Vincent,,,,,,,,,,,,,,,1,0,0,,,240
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr65,Richard Crego,,,,,Richard,,Crego,,,,,,,,,,,,,,,1,3,2,,,278
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr66,Lott Tripp,,,,,Lott,,Tripp,,,,,,,,,,,,,,,0,19,0,,,228
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr67,Wandel Overocker,,,,,Wandle,,Overocker,,,,,,,,,,,,,,,1,2,6,,,270
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr68,Samuel Dorland,,,,,Samuel,,Dorland,,,,,,,,,,,,,,,2,5,1,,,541
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr69,Charles Le Roux,,,,,Charles,,Leroux,,,,,,,,,,,,,,,8,1,6,,,1938
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr70,John Shibley,,,,,John,,Shibley,,,,,,,,,,,,,,,22,12,8,,,5432
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr71,John Beatten,,,,,John,,Beatten,,,,,,,,,,,,,,,1,9,2,,,350
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr72,Pelatiah Soper,,,,,Pelatiah,,Soper,,,,,,,,,,,,,,,2,15,9,,,669
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr73,Samuel Jackson,,,,,Samuel,,Jackson,,,,,,,,,,,,,,,0,13,0,,,156
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr74,Dellaway Fowler,,,,,Dellaway,,Fowler,,,,,,,,,,,,,,,1,15,0,,,420
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr75,Gordus Zuck,,,,,Gordus,,Zuck,,,,,,,,,,,,,,,19,0,0,,,4560
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr76,Jacob Tobias,,,,,Jacob,,Tobias,,,,,,,,,,,,,,,0,10,6,,,126
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr77,Isaac Conklin,,,,,Isaac,,Conklin,,,,,,,,,,,,,,,10,0,0,,,2400
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr78,Hendrick Sehank,,,,,Hendrick,,Sehank,,,,,,,,,,,,,,,5,11,9,,,1341
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr79,Enoch Lester,,,,,Enoch,,Lester,,,,,,,,,,,,,,,0,16,0,,,192
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr80,Elijah Forgeson,,,,,Elijah,,Forgeson,,,,,,,,,,,,,,,1,5,0,,,300
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr81,Lewis Barton,,Doctor,,,Lewis,,Barton,,,,,,,,,,,,,,,2,0,0,,,480
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr82,Abraham Palmer,,,,,Abraham,,Palmer,,,,,,,,,,,,,,,1,13,0,,,396
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr83,Cornelius Humphrey Esq.,,,,,Cornelius,,Humphrey,Esq.,,,,,,,,,,,,,,0,7,0,,,84
+ID5,John Palmer,6976B,1,Account of Creditors,10,5,1770,Creditor,cr84,Obadiah Griffing,,,,,Obadiah,,Griffing,,,,,,,,,,,,,,,8,9,4,,,2032
+ID5,John Palmer,6976A,,Inventory,10,5,1770,Debtor,dr11,Thomas Clapp,,,,,Thomas,,Clapp,,,,,,,,,,,,,,,1,3,0,,,276
+ID5,John Palmer,6976A,,Inventory,10,5,1770,Debtor,dr12,Ebenezer Warden,,,,,Ebenezer,,Warden,,,,,,,,,,,,,,,0,9,0,,,108
+ID5,John Palmer,6976A,,Inventory,10,5,1770,Debtor,dr13,Cornelius Masten,,,,,Cornelius,,Masten,,,,,,,,,,,,,,,0,7,0,,,84
+ID5,John Palmer,6976A,,Inventory,10,5,1770,Debtor,dr14,Elias Delong,,,,,Elias,,Delong,,,,,,,,,,,,,,,0,11,0,,,132
+ID5,John Palmer,6976A,,Inventory,10,5,1770,Debtor,dr15,Robert Ames,,,,,Robert,,Ames,,,,,,,,,,,,,,,0,6,0,,,72
+ID5,John Palmer,6976A,,Inventory,10,5,1770,Debtor,dr16,Richard Cadman,,,,,Richard,,Cadman,,,,,,,,,,,,,,,1,14,0,,,408
+ID5,John Palmer,6976A,,Inventory,10,5,1770,Debtor,dr17,Ephraim Forgeson,,,,,Ephraim,,Forgeson,,,,,,,,,,,,,,,0,7,0,,,84
+ID5,John Palmer,6976A,,Inventory,10,5,1770,Debtor,dr18,Jacobus Gonsalus,,,,,Jacobus,,Gonsalus,,,,,,,,,,,,,,,0,9,0,,,108
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr85,John Smith,1,,,,John,,Smith,,,,,,,,,,,,,,,14,0,0,,(13.0.0. in 6977A),3360
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr86,Abraham K Van Vleek,1,,,,Abraham,K.,Vanflex,,Vanflacks,,,,,,,,,,,,,6,2,0,,(6.1.11 in 6977A),1464
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr87,Mary Jeffries,1,,,,Mary,,Jeffries,,,,,,,,,,,,,,,6,8,0,,,1536
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr88,William Clum,1,,,,William,,Clumb,,Clum,,,,,,,,,,,,,2,10,0,,(2.15.0 in 6977A),600
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr89,David Van Ness,1,,,,David,,Van Ness,,,,,,,,,,,,,,,2,10,0,,(3.0.0 in 6977A),600
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr90,John Van Ness,,,,,John,,Van Ness,,,,,,,,,,,,,,,0,5,0,,,60
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr91,Martinius Fusburg,1,,,,Martinius,,Fusburg,,Martin Fosburgh,,,,,,,,,,,,,0,12,0,,(0.13.0 in 6977A),144
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr92,Philip Jacobs,1,,,,Philip,,Jacobs,,,,,,,,,,,,,,,2,12,0,,,624
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr93,Henry Tetter,,,,,Henry,,Tetter,,,,,,,,,,,,,,,,,,not settled,,
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr94,Sirrile Carpenter,,,,,Sirrile,,Carpenter,,,,,,,,,,,,,,,0,15,0,,,180
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr95,Seth Pope,,,,,Seth,,Pope,,,,,,,,,,,,,,,1,10,0,,,360
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr96,Fredricks,,,,,,,Fredricks,,,,,,,,,,,,,,,1,10,0,,,360
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr97,Smith,,Judge,,,,,Smith,,,,,,,,,,,,,,,0,8,0,,,96
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr98,Isaac Smith,,,,,Isaac,,Smith,,,,,,,,,,,,,,,0,11,0,,,132
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr99,Charles Near,,,,,Charles,,Near,,,,,,,,,,,,,,,0,0,8,,,8
+ID6,John Stuart,6977,,Account of Creditors,5,15,1771,Creditor,cr100,Anthony Strots,,,,,Anthony,,Strots,,,,,,,,,,,,,,,0,0,6,,,6
+ID7,Gideon Casfoot,7235,,Account of Creditors,5,24,1771,Creditor,cr101,Malcom Morrison,,,,,Malcom,,Morrisson,,,,,,,,,,,,,,,50,0,0,,,12000
+ID7,Gideon Casfoot,7235,,Account of Creditors,5,24,1771,Creditor,cr102,Rowland Henry,,,,,Rowland,,Henry,,,,,,,,,,,,,,,50,0,0,,,12000
+ID7,Gideon Casfoot,7235,,Account of Creditors,5,24,1771,Creditor,cr103,Tartullus Duckinson,,,,,Tartullus,,Duckinson,,,,,,,,,,,,,,,12,0,0,,,2880
+ID7,Gideon Casfoot,7235,,Account of Creditors,5,24,1771,Creditor,cr104,Clear Everitt,,,,,Clear,,Everil,,,,,,,,,,,,,,,15,14,0,,,3768
+ID7,Gideon Casfoot,7235,,Account of Creditors,5,24,1771,Creditor,cr105,Cash,,,,Mr.,,,Cash,,,,,,,,,,,,,,,5,0,0,,,1200
+ID7,Gideon Casfoot,7235,,Account of Creditors,5,24,1771,Creditor,cr106,Ebenezer Kelly,,,,,Ebenezer,,Kelly,,,,,,,,,,,,,,,9,0,0,,,2160
+ID7,Gideon Casfoot,7235,,Account of Creditors,5,24,1771,Creditor,cr107,Samuel Howner,,,,,Samuel,,Howner,,,,,,,,,,,,,,,3,0,0,,,720
+ID7,Gideon Casfoot,7235,,Account of Creditors,5,24,1771,Creditor,cr58,Benjamin Hatch,,,,,Benjamin,,Hatch,,,,,,,,,,,,,,,,,,,,
+ID8,Simeon Wright,7236,,Account of Creditors,5,24,1771,Creditor,cr109,George Jacob Surrenburgher,,,,,George,Jacob,Surrenburgher,,,,,,,,,,,,,,,37,0,0,,,8880
+ID8,Simeon Wright,7236,,Account of Creditors,5,24,1771,Creditor,cr110,Martin Hoffman,,Colonel,,,Martin,,Hoffman,,,,,,,,,,,,,,,18,0,0,,,4320
+ID8,Simeon Wright,7236,,Account of Creditors,5,24,1771,Creditor,cr86,Abraham K Van Vleek,,,,,Abraham,K,Van Vleek,,,,,,,,,,,,,,,6,10,0,,,1560
+ID8,Simeon Wright,7236,,Account of Creditors,5,24,1771,Creditor,cr112,Robert George,,,,,Robert,,George,,,,,,,,,,,,,,,10,0,0,account unsettled,,2400
+ID8,Simeon Wright,7236,,Account of Creditors,5,24,1771,Creditor,cr113,Samuel Mabbit,,,,,Samuel,,Mabbit,,,,,,,,,,,,,,,10,0,0,,,2400
+ID8,Simeon Wright,7236,,Account of Creditors,5,24,1771,Creditor,cr114,Reed,,Merchant,Oblong,,,,Reed,,,,,,,,,,,,,,,6,0,0,,,1440
+ID8,Simeon Wright,7236,,Account of Creditors,5,24,1771,Creditor,cr115,Edmond Parlle,,,,,Edmond,,Parlle,,,,,,,,,,,,,,,5,0,0,,,1200
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr116,William Earl,,,Stirling,,William,,Earl,,,,,,,,,,,,,,,80,0,0,supreme writ,,19200
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr117,Andrew Bastick,,,,,Andrew,,Bastick,,,,,,,,,,,,,,,11,0,0,court of common pleas,,2640
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr118,Evert Bogardus,,,,,Evert,,Bergordis,,,,,,,,,,,,,,,11,0,0,court of common pleas,,2640
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr119,Simon Cole,,,,,Simon,,Coll,,,,,,,,,,,,,,,3,0,0,justice execution before esq. Bastick,,720
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr120,Nicholis Homes,,,,,Nicholis,,Homes,,,,,,,,,,,,,,,7,0,0,,,1680
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr104,Clear Everitt,,,,,Clear,,Everitt,,,,,,,,,,,,,,,1,10,0,,,360
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr122,Bartholomew Crannell Esq.,,,,,Bartholomew,,Caannal,Esq.,,,,,,,,,,,,,,3,0,0,,,720
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr123,Abigail North,,,,Widow,Abigail,,North,,,,,,,,,,,,,,,3,0,0,,,720
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr124,Joseph Carpenter,,,,,Joseph,,Carpenter,,,,,,,,,,,,,,,1,0,0,,,240
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr662,Henry Crankhite,,,,,Hendrick,,Cronkhith,,,,,,,,,,,,,,,0,16,0,,,192
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr126,Francis Delong,,,,,Francis,,Delong,,,,,,,,,,,,,,,2,0,0,,,480
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr127,John Bleecker,,merchant,,,John,,Blaiker,,,,,,,,,,,,,,,4,0,0,,,960
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr128,Cornelius Hendrickson,,,,,Cornalus,,Handriksie,,,,,,,,,,,,,,,3,0,0,,,720
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr129,James Attwater Esq.,,,,,James,,Attwater,Esq.,,,,,,,,,,,,,,5,0,0,,,1200
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr130,Bouskark,,merchant,,,,,Bouskark,,,,,,,,,,,,,,,3,0,0,,,720
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr131,Benjamin Franch,,,,,Benjamin,,Franch,,,,,,,,,,,,,,,1,0,0,,,240
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr132,John Caago,,,,,John,,Caago,,,,,,,,,,,,,,,5,0,0,,,1200
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr70,John Shibley,,,,,John,,Sheablie,,,,,,,,,,,,,,,1,0,0,,,240
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr134,Leonard Nintson,,,,,Leonard,,Nintson,,,,,,,,,,,,,,,1,0,0,,,240
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr80,Elijah Forgeson,,,,,Elisha,,Forgeson,,,,,,,,,,,,,,,0,8,0,,,96
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr136,Thomas Storm,,,,,Thomas,,Storm,,,,,,,,,,,,,,,1,0,0,,,240
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr69,Charles Le Roux,,,,,Chearls,,La Roux,,,,,,,,,,,,,,,1,0,0,,,240
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr138,Dirck Brinckerhoff Esq.,,,,,Dirck,,Brinckerhoff,Esq.,,,,,,,,,,,,,,0,10,0,,,120
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr139,Zaphania Platt,,Captain,,,Zaphania,,Platt,,,,,,,,,,,,,,,1,10,0,,,360
+ID9,Isaiah Esmond,8646,2-3,Account of Creditors,8,4,1773,Creditor,cr140,Samuel Smith,,"""in company""",,,Samuel,,Smith,,,,cr165,Melancton Smith,,,,,Malanten,,Smith,,,3,0,0,,Samuel & Malanten Smith in Company,720
+ID9,Isaiah Esmond,8646,3,Inventory,8,4,1773,Debtor,dr19,John Matthews,,,,,John,,Matthews,,,,,,,,,,,,,,,4,19,0,,,1188
+ID9,Isaiah Esmond,8646,3,Inventory,8,4,1773,Debtor,dr20,Garret Brevow,,,,,Garret,,Brevow,,,,,,,,,,,,,,,0,8,6,,,102
+ID9,Isaiah Esmond,8646,3,Inventory,8,4,1773,Debtor,dr21,Garret Lansing,,,,,Garret,,Lansing,,,,,,,,,,,,,,,0,4,6,,,54
+ID9,Isaiah Esmond,8646,3,Inventory,8,4,1773,Debtor,dr22,Matthew Vradenburgh,,,,,Matthew,,Nradenburgh,,,,,,,,,,,,,,,0,6,0,,,72
+ID9,Isaiah Esmond,8646,3,Inventory,8,4,1773,Debtor,cr662,Henry Crankhite,,,,,Henry,,Cronkhith,,,,,,,,,,,,,,,0,8,0,,,96
+ID10,William Tompkins,8647,3,Account of Creditors,8,4,1773,Creditor,cr141,Peter Dewitt,,,,,Peter,,Dewitt,,,,,,,,,,,,,,,87,8,9,,,20985
+ID10,William Tompkins,8647,3,Account of Creditors,8,4,1773,Creditor,cr142,Mary Elmendorph,,,,,Mary,,Elmendorph,,,,,,,,,,,,,,,24,17,0,,,5964
+ID10,William Tompkins,8647,3,Account of Creditors,8,4,1773,Creditor,cr143,James Griffin,,,,,James,,Griffin,,,,,,,,,,,,,,,1,15,0,,,420
+ID10,William Tompkins,8647,3,Account of Creditors,8,4,1773,Creditor,cr144,Edward Griffin,,,,,Edward,,Griffin,,,,,,,,,,,,,,,1,0,0,,,240
+ID10,William Tompkins,8647,3,Account of Creditors,8,4,1773,Creditor,cr145,Elijah Tompkins,,,,,Elijah,,Tompkins,,,,,,,,,,,,,,,9,0,0,note,,2160
+ID10,William Tompkins,8647,3,Account of Creditors,8,4,1773,Creditor,cr146,Richard Williams,,,,,Richard,,Williams,,,,,,,,,,,,,,,3,0,0,unsettled,,720
+ID10,William Tompkins,8647,3,Account of Creditors,8,4,1773,Creditor,cr147,Benjamin Van Vleat,,,,,Benjamin,,Van Vleat,,,,,,,,,,,,,,,1,5,0,unsettled,,300
+ID10,William Tompkins,8647,1-2,Inventory,8,4,1773,Debtor,dr24,Enos Mosher,,,,,Enores,,Mosher,,,,,,,,,,,,,,,0,7,0,,,84
+ID10,William Tompkins,8647,1-2,Inventory,8,4,1773,Debtor,dr25,Abe Griffin,,,,,Abe ,,Griffin,,,,,,,,,,,,,,,0,4,0,,,48
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr148,Murray Lester,1,,,,Murray,,Lister,,Lester,,,,,,,,,,,,,36,0,0,court of common pleas,,8640
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr149,William Scharmehorn,1,,,,William,,Scharmehorn,,Schermehorn,,,,,,,,,,,,,20,0,0,court of common pleas,,4800
+ID11,Simon Newcomb,8648,6,Certificate of Causes of Commitment,8,4,1773,Creditor,cr150,Jedediah Dewey,1,Reverend,,,Jedediah,,Dewey,,,,cr804,Martin Dewey,,,,,Martin,,Dewey,,,30,0,0,supreme court,,7200
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr151,Gideon Nervaylen,,,,,Gideon,,Nervaylen,,,,,,,,,,,,,,,3,0,0,,,720
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr152,Calp Brown,,,,,Calp,,Brown,,,,,,,,,,,,,,,6,0,0,,,1440
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr153,Margrit Ross,,,,Widow,Margrit,,Ross,,,,,,,,,,,,,,,3,0,0,,,720
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr154,John Cuttgrove,,,,,John,,Cuttgrove,,,,,,,,,,,,,,,6,11,8.5,,,1580.5
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr155,Folger Gardner,,,,,Folger,,Gardner,,,,,,,,,,,,,,,6,19,2.5,,,1670.5
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr156,Peter Garman,1,,,,Peter,,Garman,,Germond,,,,,,,,,,,,,2,10,0,Justis Execution,,600
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr157,Jonathan Lewis,1,,,,Jonathan,,Lewis,,,,,,,,,,,,,,,25,0,0,court of common pleas,,6000
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr86,Abraham K Van Vleek,1,,,,Abraham,K,Van Vleek,,,,,,,,,,,,,,,6,0,0,"Justis Execution, before justices of peace",,1440
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr159,William Ford,,,,,William,,Ford,,,,,,,,,,,,,,,4,3,5,,,1001
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr160,William Allen,,,,,William,,Allen,,,,,,,,,,,,,,,3,10,,,,840
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr161,John Allen,,,,,John,,Allen,,,,,,,,,,,,,,,2,10,0,,,600
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr124,Joseph Carpenter,,,,,Joseph,,Carpenter,,,,,,,,,,,,,,,2,10,0,,,600
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr163,Joseph Lay,,,,,Joseph,,Lay,,,,,,,,,,,,,,,0,12,0,,,144
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr287,David Southerland,,,,,David,,Sutherling,,,,,,,,,,,,,,,0,12,0,,,144
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr165,Melancton Smith,,,,,Malanton,,Smith,,,,,,,,,,,,,,,0,12,0,,,144
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr166,Jacob Thomas,,,,,Jacob,,Thomas,,,,,,,,,,,,,,,2,0,0,,,480
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr110,Martin Hoffman,,,,,Martine,,Hoffman,,,,,,,,,,,,,,,0,15,0,,,180
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr89,David Van Ness,,,,,David,,Van Ness,,,,,,,,,,,,,,,0,12,0,,,144
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr113,Samuel Mabbit,,,,,Samuel,,Mabbot,,,,,,,,,,,,,,,5,0,0,,,1200
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr170,John Mcgarrah,,,,,John,,McGarrah,,,,,,,,,,,,,,,3,10,0,supreme court,,840
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr171,George Seands,,"""in company""",,,George,,Seands,,,,,,,,,,,,,,,1,0,0,,"""George Seands in company""",240
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr172,Jacob Cronekhith,,,,,Jacob,,Cronekhith,,,,,,,,,,,,,,,0,10,0,,,120
+ID11,Simon Newcomb,8648,3-4,Account of Creditors,8,4,1773,Creditor,cr173,James Livingston Esq.,,,,,James,,Livingston,Esq.,,,,,,,,,,,,,,,,,sum unknown,,
+ID11,Simon Newcomb,8648,6,Certificate of Causes of Commitment,8,4,1773,Creditor,cr174,Abraham Bockee,1,,,,Abraham,,Bockee,,,,,,,,,,,,,,,,,,before justuces of peace,,
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr26,James Adams,,,,,James,,Adams,,,,,,,,,,,,,,,4,1,0,book debt unsettled,,972
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr27,James Mcgonal,,,,,James ,,McGonal,,,,,,,,,,,,,,,2,16,10,book debt unsettled,,682
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr28,Edward Freeman,,,,,Edward,,Freeman,,,,,,,,,,,,,,,0,3,0,book debt,,36
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr29,John Willson,,,,,John,,Willson,,,,,,,,,,,,,,,24,5,1,book debt unsettled,,5821
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,cr606,Samuel Moor,,,,,Samuel,,Moor,,,,,,,,,,,,,,,1,4,0,book debt unsettled,,288
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr31,Samuel Beeman,,,,,Samuel ,,Beeman,,,,,,,,,,,,,,,5,6,9,book debt unsettled,,1281
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr32,Enocs Thompson,,,,,Enocs,,Thompson,,,,,,,,,,,,,,,0,1,6,,,18
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr33,Lewes Anjevine,,,,,Lewes,,Anjevine,,,,,,,,,,,,,,,0,5,1,book debt,,61
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr34,Michajah Marshel,,,,,Michajah,,Marshel,,,,,,,,,,,,,,,4,1,6,book debt unsettled,,978
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr35,Nathanel Thomes Jr.,,,,,Nathanel,,Thomes Jr.,,,,,,,,,,,,,,,2,15,8,book debt ,,668
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr36,Nathanel Thomes,,,,,Nathanel,,Thomes,,,,,,,,,,,,,,,1,8,0,book debt ,,336
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,cr196,John Wiltsie,,,,,John,,Wiltsie,,,,,,,,,,,,,,,0,17,5,book debt unsettled,,209
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr38,William Mcfarlin,,,,,William,,McFarlin,,,,,,,,,,,,,,,0,19,2,book debt,,230
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr39,Joseph Daylie,,,,,Joseph,,Daylie,,,,,,,,,,,,,,,0,2,0,book debt,,24
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr40,Thomas Dickenson,,,,,Thomas,,Dicketson,,,,,,,,,,,,,,,0,11,0,book debt,,132
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr41,James Palmer,,,,,James,,Palmer,,,,,,,,,,,,,,,0,3,5,book debt,,41
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr42,Lewis Palmer,,,,,Lewis,,Palmer,,,,,,,,,,,,,,,0,1,0,book debt,,12
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr43,Francis Castots,,,,,Francis,,Castots,,,,,,,,,,,,,,,0,2,0,,[torn],24
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,cr140,Samuel Smith,,,,,Samuel,,Smith,,,,,,,,,,,,,,,9,10,0,note with interest not cost,,2280
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr45,Henry Gearner,,,,,Henry,,Gearner,,,,,,,,,,,,,,,20,0,0,note on demand,,4800
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr46,William Antrum,,,,,William,,Antrum,,,,,,,,,,,,,,,47,0,0,book debt,,11280
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr47,Gideon Chase,,,,,Gidson,,Chease,,,,,,,,,,,,,,,0,9,6,book debt,,114
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr48,James Peterson,,,,,James,,Peterson,,,,,,,,,,,,,,,0,1,6,book debt,,18
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr49,John Coter Snider,,,,,John Coter,,Snider,,,,,,,,,,,,,,,0,10,0,book debt,,120
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr50,Stephen Mead,,,,,Stephen,,Mead,,,,,,,,,,,,,,,0,0,11,book debt,,11
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr51,Ezra Mead,,,,,Ezra,,Mead,,,,,,,,,,,,,,,0,2,6,book debt,,30
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr52,Daniel Ford,,,,,Daniel,,Ford,,,,,,,,,,,,,,,0,2,10,book debt,,34
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr53,Benjamin Shaw,,,,,Benjamin,,Shaw,,,,,,,,,,,,,,,1,5,0,book debt,,300
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr54,David Fhear,,,,,David,,Fhear,,,,,,,,,,,,,,,8,0,0,one mare,,1920
+ID11,Simon Newcomb,8648,4,Inventory,8,4,1773,Debtor,dr55,Zeacheas Newcomb,,,,,Zeacheas ,,Newcomb,,,,,,,,,,,,,,,,,,account unsettled ,,0
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr175,Jacobus Depeyster,1,,,,Jacobus,,Depaister,,,,,,,,,,,,,,,213,0,0,"upon an action, process out of court of common pleas",,51120
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr176,Henry Webb,1,,,,Henry,,Webb,,,,,,,,,,,,,,,20,0,0,"upon a judgement, process out of court of common pleas",,4800
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr138,Dirck Brinckerhoff Esq.,,,,,Drick,,Brinkerhoff,,,,,,,,,,,,,,,,,,sum unknown,,
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr178,Philip Verplank,,,,,Phillip,,Verplank,,,,,,,,,,,,,,,,,,sum unknown,,
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr179,Cornelius Van Wyck,1,,,,Cornelius,,Van Wyck,,,,,,,,,,,,,,,,,,"sum unknown, process out of justice of peace",,
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr68,Samuel Dorland,,,,,Samuel,,Darland,,,,,,,,,,,,,,,0,16,11,on a justice execution &Sheriff fus,,203
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr181,Laurence Loosee,,,,,Laurence,,Loosee,,,,,,,,,,,,,,,,,,,,
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr182,Henry Clapp,,,,,Henry,,Clapp,,,,,,,,,,,,,,,,,,,,
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr183,Johannes Ruger,,,,,Johannes,,Ruger,,,,,,,,,,,,,,,,,,,,
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr231,John Dewitt,,,,,Johannes,,Dewitt,,,,,,,,,,,,,,,6,5,0,,,1500
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr185,James Annin,,,,,James,,Annin,,,,,,,,,,,,,,,1,0,0,,,240
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr186,Simeon Loroy,,,,,Simeon,,Loroy,,,,,,,,,,,,,,,0,15,0,,,180
+ID12,Paul Davison,8649,3,Account of Creditors,8,4,1773,Creditor,cr187,Stephen Duryee,1,,,,Steven,,Duryee,,Stephen,,,,,,,,,,,,,3,0,0,"on execution, process out of justice of peace",,720
+ID12,Paul Davison,8649,4,Inventory,8,4,1773,Debtor,cr64,Charles Vincent,,,,,Charles,,Vinson,,,,,,,,,,,,,,,0,16,0,,crossed out,192
+ID12,Paul Davison,8649,4,Inventory,8,4,1773,Debtor,dr57,Elial Yeamans,,,,,Elial,,Yeamans,,,,,,,,,,,,,,,0,6,0,,crossed out,72
+ID12,Paul Davison,8649,4,Inventory,8,4,1773,Debtor,dr58,John Glover,,,,,John,,Glover,,,,,,,,,,,,,,,4,0,0,note ,,960
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr188,John Brevot,,,,,John,,Brevot,,,,,,,,,,,,,,,1,0,0,,torn,240
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr189,Dirck Brinckerhoff Jr.,,,,,Dirck,,Brinckerhoff,Jr.,,,,,,,,,,,,,,0,11,0,,torn,132
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr190,Daniel Hausbrook,,,,,Daniel,,Horsbrock,,,,,,,,,,,,,,,4,0,0,,torn,960
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr68,Samuel Dorland,,,,,Samuel,,Dorling,,,,,,,,,,,,,,,2,4,9,,,537
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr192,John Claming,,,,,John,,Claming,,,,,,,,,,,,,,,2,12,0,,,624
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr193,Moraltie Devoor,,,,,Moraltie,,Devoor,,,,,,,,,,,,,,,4,0,0,,,960
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr194,Jacob Van Wagener,,,,,Jacob,,Van Wagener,,,,,,,,,,,,,,,0,16,0,,torn,192
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr138,Dirck Brinckerhoff Esq.,,,New York,,Dirck,,Brinkerhoff,,,,,,,,,,,,,,,13,14,0,,torn,3288
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr196,John Wiltsie,,,,,John,,Wilsie,,,,,,,,,,,,,,,2,0,0,,torn,480
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr197,Cornalia Van Vleekeren,,,,,Cornalia,,Van Vleekeren,,,,,,,,,,,,,,,77,0,0,,torn,18480
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr198,Isaac Audriance,,,,,Isaac,,Audriance,,,,,,,,,,,,,,,0,2,0,,torn,24
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr199,Richard Warner,,,,,Richard,,Warner,,,,,,,,,,,,,,,0,1,0,,torn,12
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr200,Leonard Van Kleeck,,,,,Leonard,,Van Kleeck,,,,,,,,,,,,,,,0,13,0,,torn,156
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr187,Stephen Duryee,,,,,Stephen,,Duryee,,,,,,,,,,,,,,,16,15,0,,torn,4020
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr179,Cornelius Van Wyck,,,,,Cornelius,,Van Wyck,,,,,,,,,,,,,,,30,0,0,,torn,7200
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr203,Jacobus Snediker,,,,,Jacobus,,Snediker,,,,,,,,,,,,,,,1,0,0,,torn,240
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr204,Isaac Secord,,,,,Isaac,,Secord,,,,,,,,,,,,,,,0,6,0,,torn,72
+ID13,John Van Vleckeren,8650,3,Account of Creditors,8,4,1773,Creditor,cr205,John Handricksie,,,,,John,,Handricksie,,,,,,,,,,,,,,,1,4,0,,torn,288
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr59,Peter Huls,,,,,Peter,,Huls,,,,,,,,,,,,,,,0,1,0,,,12
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr60,James Mccandelest,,,,,James,,McCandelest,,,,,,,,,,,,,,,0,2,0,,,24
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr61,Peter Lent,,,,,Peter,,Lent,,,,,,,,,,,,,,,0,2,0,,,24
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr62,Marinus Van Vleekeren,,,,,Marinus ,,Van Vleekeren,,,,,,,,,,,,,,,1,2,0,unsettled,,264
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr63,Jacob Reasonner,,,,,Jacob,,Reasonner,,,,,,,,,,,,,,,3,5,4,unsettled,,784
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr64,Michael Rogers,,,,,Michael,,Rogers,,,,,,,,,,,,,,,2,4,3,unsettled,,531
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr65,John Van Vleekeren Jr.,,,,,John,,Van Vleekeren,Jr.,,,,,,,,,,,,,,0,7,0,unsettled,,84
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr66,William Schutt,,,,,William,,Schutt,,,,,,,,,,,,,,,0,15,0,unsettled,,180
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr67,Joseph Brush,,,,,Joseph,,Brush,,,,,,,,,,,,,,,0,14,0,unsettled,,168
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,cr520,Abraham Brinckerhoff,,,,,Abraham,,Brinckerhoff,,,,,,,,,,,,,,,0,5,0,unsettled,,60
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr69,Samuel Swartwout,,,,,Samuel,,Swartwout,,,,,,,,,,,,,,,2,7,0,unsettled,,564
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr70,Abraham Lose,,,,,Abraham,,Lose,,,,,,,,,,,,,,,1,11,6,unsettled,,378
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,cr231,John Dewitt,,,,,John,,Dewitt,,,,,,,,,,,,,,,0,19,8,unsettled,,236
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr72,John Van Amen,,,,,John,,Van Naman,,,,,,,,,,,,,,,8,10,0,note unsettled,,2040
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr73,Edward Mcgregrey,,,,,Edward,,McGregrey,,,,,,,,,,,,,,,0,19,0,,,228
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr74,John Rippen,,,,,John,,Rippen,,,,,,,,,,,,,,,2,10,0,,,600
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr75,Olver Swimb,,,,,Olver,,Swimb,,,,,,,,,,,,,,,1,10,0,,,360
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr76,Mindert Van Denbogert,,,,,Mindert,,Van Denbogert,,,,,,,,,,,,,,,0,13,3,,,159
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr77,Edward Brush,,,,,Edward,,Brush,,,,,,,,,,,,,,,0,5,0,,,60
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr78,Peter Swade,,,,,Peter,,Swade,,,,,,,,,,,,,,,3,12,6,,,870
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr79,William Fevrsy,,,,,William,,Fevrsy,,,,,,,,,,,,,,,0,8,0,deceased,,96
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr80,Bardawine Lacount,,,,,Bardawine,,Lacount,,,,,,,,,,,,,,,0,1,0,,,12
+ID13,John Van Vleckeren,8650,4,Inventory,8,4,1773,Debtor,dr81,Goris Storm,,,,,Goris,,Storm,,,,,,,,,,,,,,,0,1,0,,,12
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr206,Tobias Elmendorph,1,,,,Tobias,,Elvandorph,,Elmendorph,,,,,,,,,,,,,81,11,5,"note dated june 17 1769 on interest, process out of the county court",,19577
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr207,Moses Contine,,,,,Moses,,Contine,,,,,,,,,,,,,,,,,,,,
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr208,William Alter,,,,,William,,Alter,,,,,,,,,,,,,,,0,11,0,,,132
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr209,Jacobus Alter,,,,,Jacobus,,Alter,,,,,,,,,,,,,,,0,6,0,,,72
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr210,John Duspany,,,,,John,,Duspany,,,,,,,,,,,,,,,0,5,0,,,60
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr211,Philip Swart,,,,,Philip,,Swart,,,,,,,,,,,,,,,0,3,0,,,36
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr212,Marinus Van Naken,,,,,Marinus,,Van Naken,,,,,,,,,,,,,,,1,5,0,,,300
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr213,Garret Van Benthousen,,,,,Garret,,Van Benthousen,,,,,,,,,,,,,,,5,0,0,,,1200
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr214,Augustis Turck,,,,,Augustis,,Turck,,,,,,,,,,,,,,,0,4,0,,,48
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr215,Barants Bonasteal,,,,,Barants,,Bonasteal,,,,,,,,,,,,,,,0,8,0,,,96
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr216,Hendrick Tater,,,,,Handrick,,Tator,,,,,,,,,,,,,,,0,5,0,,,60
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr217,Ananias Cooper,,,,,Ananias,,Cooper,,,,,,,,,,,,,,,,,,unsettled,,
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr218,Gitteman,,Doctor,,,,,Kitaman,,,,,,,,,,,,,,,0,16,0,,,192
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr219,Jacob Kip,,,,,Jacob,,Kip,,,,,,,,,,,,,,,0,13,0,,,156
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr220,William Radley,,,,,William,,Radly,,,,,,,,,,,,,,,0,5,0,,,60
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr221,Leonard Wager,,,,,Leonard,,Wager,,,,,,,,,,,,,,,6,0,0,note Interest,,1440
+ID14,Hendrick Ackert,8658,3,Account of Creditors,8,4,1773,Creditor,cr222,Mordica Laster,,,,,Mordica,,Laster,,,,,,,,,,,,,,,0,5,0,,,60
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr223,George Fraligh,,,,,George,,Fraligh,,Fraleigh,,,,,,,,,,,,,1,6,0,account unsettled,,312
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr118,Evert Bogardus,,,,,Evert,,Bogardus,,,,,,,,,,,,,,,1,6,0,account unsettled,,312
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr225,John Coneklin,,,,,John,,Coneklin,,,,,,,,,,,,,,,0,8,0,,,96
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr226,Martin Burger Jr.,,,,,Martin,,Burger,Jr.,,,,,,,,,,,,,,0,8,0,,,96
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr227,Adam Tipple,,,,,Adam,,Tipple,,,,,,,,,,,,,,,1,10,0,,,360
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr228,Henry Fraleigh,,,,,Handrick,,Freligh,,,,,,,,,,,,,,,,,,unsettled,,0
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr229,Isaac Kip,,Doctor,,,Isaac,,Kip,,,,,,,,,,,,,,,2,0,0,,,480
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr141,Peter Dewitt,,,,,Peter,,Dewitt,,,,,,,,,,,,,,,,,,,,0
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr231,John Dewitt,,,,,John,,Dewitt,,,,,,,,,,,,,,,0,17,0,,,204
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr232,Dirck Van Vleats,,,,,Dirck,,Van Vleats,,,,,,,,,,,,,,,,,,unsettled,,0
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr147,Benjamin Van Vleat,,,,,Benjamin,,Van Vleat,,,,,,,,,,,,,,,0,3,0,,,36
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr160,William Allen,,,,,William,,Allen,,,,,,,,,,,,,,,0,8,0,,,96
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr235,Gilbart Williams,,,,,Gilbart,,Williams,,,,,,,,,,,,,,,7,0,0,,,1680
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr236,Theophilus Nelson,,,,,Theophilus,,Nelson,,,,,,,,,,,,,,,0,3,0,,,36
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr237,Ruben Nalson,,,,,Ruben,,Nalson,,,,,,,,,,,,,,,0,4,0,,,48
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr238,Solomon Acker,,,,,Solomon,,Acker,,,,,,,,,,,,,,,0,12,0,,,144
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr239,Adum Bargh,,,,,Adum,,Bargh,,,,,,,,,,,,,,,1,10,0,,,360
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr240,David Aker Jr.,,,,,David,,Aker,Jr.,,,,,,,,,,,,,,0,11,0,,,132
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr241,Timothy Clasing,,,,,Timothy,,Clasing,,,,,,,,,,,,,,,,,,unsettled,,0
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr242,John,,,,,John,,,,,,,,,,,,,,,,,3,0,0,Edward's Estate,,720
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr243,Luke Lasear,,,,,Luke,,Lasear,,,,,,,,,,,,,,,0,8,0,,,96
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr244,John Bargh,,,,,John,,Bargh,,,,,,,,,,,,,,,0,1,6,,,18
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr245,Michael Haseaker,,,,,Michael,,Haseaker,,,,,,,,,,,,,,,0,2,0,,,24
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr122,Bartholomew Crannell Esq.,,,,,Bartholomew,,Crannell,,,,,,,,,,,,,,,3,0,0,,,720
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,ID15,Gerrardus Lewis,1,,,,Gerradius,,Lewis,,"Gerrardus, gradius",,,,,,,,,,,,,1,18,7,"justis execution, an execution issued by cornelius Humphry esq. at the suit of geradius lewis",,463
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr173,James Livingston Esq.,,,,,James,,Livingston,,,,,,,,,,,,,,,,,,unknown,,0
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr249,Henry Beekman,,Colonel,,,Henry,,Beekman,,,,,,,,,,,,,,,10,0,0,,,2400
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr250,William Ludlow,,,,,William,,Ludlow,,,,,,,,,,,,,,,6,0,0,,,1440
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr251,Daniel Roberts,1,,,,Daniel,,Roberts,,,,,,,,,,,,,,,,,,"unknown,court common pleas",,
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr252,Isaac Seabron,,,,,Isaac,,Seabron,,,,,,,,,,,,,,,10,0,0,,,2400
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr253,Peter Palmatier,,,,,Peter,,Palmeter,,,,,,,,,,,,,,,0,5,6,,,66
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr148,Murray Lester,1,,,,Murry,,Lester,,,,,,,,,,,,,,,12,0,0,court of common pleas,,2880
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr255,Nicholas Schriver,,,,,Nicholas,,Schriver,,,,,,,,,,,,,,,0,12,0,deceased,,144
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr104,Clear Everitt,,,,,Clear,,Everitt,,,,,,,,,,,,,,,,,,unsettled,,
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr257,Henry Shop,,,,,Handrick,,Shop,,,,,,,,,,,,,,,5,0,0,,,1200
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr258,Milgart Bat,,,,,Milgart,,Bat,,,,,,,,,,,,,,,0,5,0,,,60
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr259,John Cramer,,,,,John,,Cramer,,,,,,,,,,,,,,,0,3,0,,,36
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr260,Seunis Van Bintsehoten,,,,,Seunis,,Van Bintsehoten,,,,,,,,,,,,,,,1,10,0,,,360
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr261,Gideon Van Nakam,,,,,Gideon,,Van Nakam,,,,,,,,,,,,,,,,,,unsettled,,
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr262,Johannis West,,,,,Johannis,,West,,,,,,,,,,,,,,,0,12,0,,,144
+ID14,Hendrick Ackert,8658,4,Account of Creditors,8,4,1773,Creditor,cr263,Joseph Gunsalus,,,,,Joseph,,Gunsalus,,,,,,,,,,,,,,,1,4,0,,,288
+ID14,Hendrick Ackert,8658,5,Account of Creditors,8,4,1773,Creditor,cr264,Simon Scotts,,,,,Simon,,Scotts,,,,,,,,,,,,,,,0,9,0,,,108
+ID14,Hendrick Ackert,8658,5,Account of Creditors,8,4,1773,Creditor,cr265,Arts Masten,,,,,Arts,,Masten,,,,,,,,,,,,,,,1,0,0,,,240
+ID14,Hendrick Ackert,8658,5,Account of Creditors,8,4,1773,Creditor,cr266,Jacob Cline,,,,,Jacob,,Cline,,,,,,,,,,,,,,,0,12,0,,,144
+ID14,Hendrick Ackert,8658,5,Account of Creditors,8,4,1773,Creditor,cr267,Johannis Stats,,,,,Johannis,,Stats,,,,,,,,,,,,,,,0,12,0,,,144
+ID14,Hendrick Ackert,8658,5,Account of Creditors,8,4,1773,Creditor,cr268,Willim Gay,,,,,Willim,,Gay,,,,,,,,,,,,,,,4,0,0,,,960
+ID14,Hendrick Ackert,8658,5,Account of Creditors,8,4,1773,Creditor,cr269,Henry Ellas Esq.,,,,,Henry,,Ellas,Esq.,,,,,,,,,,,,,,0,5,0,,,60
+ID14,Hendrick Ackert,8658,5,Account of Creditors,8,4,1773,Creditor,cr270,Peter Brown,,,,,Peter,,Brown,,,,,,,,,,,,,,,0,10,0,,,120
+ID14,Hendrick Ackert,8658,5,Inventory,8,4,1773,Debtor,dr82,David Aker,,,,,David,,Aker,,,,,,,,,,,,,,,1,1,0,,,252
+ID14,Hendrick Ackert,8658,5,Inventory,8,4,1773,Debtor,dr83,Walter Thorne,,,,,Walter,,Thorne,,,,,,,,,,,,,,,0,12,0,,,144
+ID14,Hendrick Ackert,8658,5,Inventory,8,4,1773,Debtor,dr84,Christajon Bargh Jr.,,,,,Christajon,,Bargh ,Jr.,,,,,,,,,,,,,,,,,unknown,,0
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr118,Evert Bogardus,,,,,Evert,,Bogardus,,,,,,,,,,,,,,,15,17,4,on execution,,3808
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr142,Mary Elmendorph,,,,,Mary,,Elmendorph,,,,,,,,,,,,,,,19,15,8,,,4748
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr206,Tobias Elmendorph,,,,,Tobias,,Elmendorph,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr223,George Fraligh,,,,,George,,Fraligh,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr163,Joseph Lay,,,,,Joseph,,Lay,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr257,Henry Shop,,,,,Handrick,,Shop,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr277,William Readlig,,,,,William,,Readlig,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr229,Isaac Kip,,Doctor,,,Isaac,,Kip,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr279,John Van Steenbergh,,,,,John,,Van Stenbargh,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr280,Christopel King,,,,,Christopel,,King,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,ID25,Lewis Bogardus,,,,,Lewis,,Bergodus,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr282,Steuard,,,,,,,Steuard,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr283,Levi Fisk,,,,,Levi,,Fisk,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr160,William Allen,,,,,William,,Allen,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr285,Teunis Houghtaylen,,,,,Teunis,,Houghtaylen,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr286,McClean 1,,,,,,,McClean,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr287,David Southerland,,,,,David,,Southerlin,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr288,Isaac Corsts,,,,,Isaac,,Corsts,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr141,Peter Dewitt,,,,,Peter,,DeWitt,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr290,William Humphrey,,,,,William,,Humpffrey,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr80,Elijah Forgeson,,,,,Elijah,,Forgason,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr292,Philip Stats,,,,,Philip,,Stats,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,5,Account of Creditors,8,4,1773,Creditor,cr293,John Cook,,,,,John,,Cook,,,,,,,,,,,,,,,,,,,,
+ID15,Gerrardus Lewis,8643,6,Inventory,8,4,1773,Debtor,cr651,John Rutsen,,,,,John,,Rutsie,,,,,,,,,,,,,,,2,16,9,deceased,,681
+ID15,Gerrardus Lewis,8643,6,Inventory,8,4,1773,Debtor,dr86,Thomas Hart,,,,,Thomas,,Hart,,,,,,,,,,,,,,,0,4,4,,,52
+ID15,Gerrardus Lewis,8643,6,Inventory,8,4,1773,Debtor,dr87,John Kip,,,,,John,,Kip,,,,,,,,,,,,,,,0,8,10,,,106
+ID15,Gerrardus Lewis,8643,6,Inventory,8,4,1773,Debtor,dr88,David Dap,,,,,David,,Dap,,,,,,,,,,,,,,,1,15,8,,,428
+ID15,Gerrardus Lewis,8643,6,Inventory,8,4,1773,Debtor,dr89,Selvaster Hays,,,,,Selvaster,,Hays,,,,,,,,,,,,,,,0,9,6,deceased,,114
+ID15,Gerrardus Lewis,8643,6,Inventory,8,4,1773,Debtor,dr22,Matthew Vradenburgh,,,,,Matthew,,Vradenburgh,,,,,,,,,,,,,,,1,1,10,,,262
+ID15,Gerrardus Lewis,8643,6,Inventory,8,4,1773,Debtor,cr206,Tobias Elmendorph,,,,,Tobias,,Elmendorph,,,,,,,,,,,,,,,3,10,0,,,840
+ID15,Gerrardus Lewis,8643,6,Inventory,8,4,1773,Debtor,dr92,Benjamin Earl,,,,,Benjamin,,Earl,,,,,,,,,,,,,,,0,3,9,,,45
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr175,Jacobus Depeyster,,,,,Jacobus,,Depeyster,,,,,,,,,,,,,,,69,0,0,"bond, and interest",,16560
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr295,Nathanel Sackett,,,,,Nathanel,,sackett,,,,,,,,,,,,,,,22,19,0,note,,5508
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr296,Daniel Lighthart,,,,,Daniel,,Lighthart,,,,,,,,,,,,,,,2,10,0,book debt,,600
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr297,John Hostad,,,,,John,,Hostad,,,,,,,,,,,,,,,,,,bond,,
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr298,Stephen Thorn,,,,,Steph,,Thorn,,,,,,,,,,,,,,,,,,"doctor, bond",,
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr299,Eve Horse,,,,Widow,Eve,,Horse,,,,,,,,,,,,,,,1,10,0,,,360
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr300,Adum Simons,,,,,Adum,,Simons,,,,,,,,,,,,,,,,,,,,
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr301,Dausanbarrey,,Captain,,,,,Dausanbarrey,,,,,,,,,,,,,,,0,3,6,,,42
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr179,Cornelius Van Wyck,,,,,Cornalus,,Van Wayck,,,,,,,,,,,,,,,2,10,0,,,600
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr303,Benjamin Brown Jr.,,,,,Benjamin,,Brown,Jr.,,,,,,,,,,,,,,40,0,0,note about 40/ or 50/,,9600
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr77,Isaac Conklin,,,,,Isaac,,Coneklin,,,,,,,,,,,,,,,10,0,0,,,2400
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr305,John Disberrey,,,,,John,,Disberrey,,,,,,,,,,,,,,,1,0,0,,,240
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr306,Daniel Fisher,,,,,Daniel,,Fisher,,,,,,,,,,,,,,,1,0,0,,,240
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr307,Henry Roukranse Jr,,,,,Henry,,Rosakrone,Jr.,,,,,,,,,,,,,,63,18,3,besides costs both have an account....,,15339
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr308,John Goodfaller,,,,,John,,Goodfaller,,,,,,,,,,,,,,,,3,6,account knows not to what amout,,42
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr309,Thomas Leateh,,,,,Thomas,,Leateh,,,,,,,,,,,,,,,,,,,,
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr310,Abraham Brush,,,,,Abraham,,Brush,,,,,,,,,,,,,,,1,5,0,,,300
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr311,Meletiah Hateh,,,,,Meletiah,,Hateh,,,,,,,,,,,,,,,0,10,0,,,120
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr312,Benjamin Brown Sr.,,,,,Benjamin,,Brown,Sr.,,,,,,,,,,,,,,,,,on account I have an account agt him,,
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr313,Arie Delong,,,,,Arie,,Delong,,,,,,,,,,,,,,,2,0,0,,,480
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr314,Dirck Hageman,,,,,Dirck,,Hageman,,,,,,,,,,,,,,,0,12,0,,,144
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr104,Clear Everitt,,,,,Clear,,Everitt,,,,,,,,,,,,,,,,,,an account subsisting cannot tell whether in debt or not,,
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr316,Peter Cutwater,,,,,Peter,,Cutwater,,,,,,,,,,,,,,,,,,,,
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr101,Malcom Morrison,,,,,Malcom,,Morrison,,,,,,,,,,,,,,,63,18,3,,,15339
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr318,Jeremiah Seabans,,,,,Jeremiah,,Seabans,,,,,,,,,,,,,,,0,6,0,,,72
+ID16,Christian Sackrider,8644,5,Account of Creditors,8,4,1773,Creditor,cr319,Fradrick Focker,,,,,Fradrick,,Focker,,,,,,,,,,,,,,,5,0,0,,,1200
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr93,John Butler,,,,,John,,Butler,,,,,,,,,,,,,,,0,2,9,,,33
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr94,Mr Chapman,,,,Mr,,,Chapman,,,,,,,,,,,,,,,0,9,6,,,114
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr95,Abraham Bookhout,,,,,Abraham,,Bookhout,,,,,,,,,,,,,,,0,1,10,,,22
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr96,Henry Davis,,,,,Henry,,Davis,,,,,,,,,,,,,,,0,2,4,,,28
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr97,Thomas Forgason,,,,,Thomas,,Forgason,,,,,,,,,,,,,,,0,0,8,,,8
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr98,Timothy Landon,,,,,Timothy,,Landon,,,,,,,,,,,,,,,0,3,4,,,40
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr99,Elijah Kallick,,,,,Elijah,,Kallick,,,,,,,,,,,,,,,0,1,4,,,16
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr100,Edward Lewis,,,,,Edward,,Lewis,,,,,,,,,,,,,,,0,13,9,,,165
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr101,Ebenezer Jonis,,,,,Ebenezer,,Jonis,,,,,,,,,,,,,,,0,2,0,,,24
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr102,Philip Cannon,,,,,Philip,,Cannon,,,,,,,,,,,,,,,0,3,6,,,42
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr103,Philip Solaman,,,,,Philip,,Solaman,,,,,,,,,,,,,,,0,1,2,,,14
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr104,Mr Goats,,,,Mr,,,Goats,,,,,,,,,,,,,,,0,5,6,,,66
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr72,John Van Amen,,,,,John,,Van Amen,,,,,,,,,,,,,,,0,10,0,,,120
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,cr56,Joshua Bennet,,,,,Joshua,,Bennet,,,,,,,,,,,,,,,0,2,0,,,24
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr107,Issac Attkins,,,,,Issac,,Attkins,,,,,,,,,,,,,,,0,2,9,,,33
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr108,John Goller,,,,,John,,Goller,,,,,,,,,,,,,,,0,1,8,,,20
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr109,Joseph Lewis,,,,,Joseph,,Lewis,,,,,,,,,,,,,,,0,0,10,,,10
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr110,Hugh Freeman,,,,,Hugh,,Freeman,,,,,,,,,,,,,,,9,1,0,,,2172
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr111,John Hale,,,,,John,,Hale,,,,,,,,,,,,,,,0,1,3,,,15
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr112,John Stillman,,,,,John,,Stillman,,,,,,,,,,,,,,,0,3,0,,,36
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr113,Joseph Bangs,,,,,Joseph,,Bangs,,,,,,,,,,,,,,,0,1,6,,,18
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr114,Joseph Grigery,,,,,Joseph,,Grigery,,,,,,,,,,,,,,,0,1,3,,,15
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr115,John Mcfarling,,,,,John,,McFarling,,,,,,,,,,,,,,,1,0,6,,,246
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr116,Lawrence Conner,,,,,Lawrence,,Conner,,,,,,,,,,,,,,,0,6,0,,,72
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr117,Noah Lee,,,,,Noah,,Lee,,,,,,,,,,,,,,,0,2,0,,,24
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr118,Nicholas Haskin,,,,,Nicholas,,Haskin,,,,,,,,,,,,,,,0,1,8,,,20
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr119,Nicholas Coadreidge,,,,,Nicholas ,,Coadreidge,,,,,,,,,,,,,,,0,5,2,,,62
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr120,Peter Purdie,,,,,Peter,,Purdie,,,,,,,,,,,,,,,0,4,7,,,55
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr121,Robert Britt,,,,,Robert,,Britt,,,,,,,,,,,,,,,0,1,8,,,20
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr122,Robert Rogers,,,,,Robert,,Rogers,,,,,,,,,,,,,,,0,19,7,,,235
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr123,Samuel Deen,,,,,Samuel,,Deen,,,,,,,,,,,,,,,0,3,8,,,44
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr124,Zacharider Baker,,,,,Zacharider,,Baker,,,,,,,,,,,,,,,0,1,10,,,22
+ID16,Christian Sackrider,8644,6,Inventory,8,4,1773,Debtor,dr125,William Williams,,,,,William,,Williams,,,,,,,,,,,,,,,6,10,0,"""between 6. & 7. pounds""",,1560
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr126,Thomas Marrick,,,,,Thomas,,Marrick,,,,,,,,,,,,,,,0,1,0,,,12
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr127,William Hopkins,,,,,William,,Hopkins,,,,,,,,,,,,,,,0,10,0,,,120
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr128,William Hashay,,,,,William,,Hashay,,,,,,,,,,,,,,,0,7,5,,,89
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr129,William Lampssar,,,,,William,,Lampssar,,,,,,,,,,,,,,,0,7,5,,,89
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr130,James Boad,,,,,James,,Boad,,,,,,,,,,,,,,,0,4,5,,,53
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr131,James Bandiga,,,,,James,,Bandiga,,,,,,,,,,,,,,,0,2,1,,,25
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr132,Jails Robertson,,,,,Jails,,Robertson,,,,,,,,,,,,,,,0,4,10,,,58
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,cr483,George Brinckerhoff,,,,,George,,Brinckerhoff,,,,,,,,,,,,,,,0,1,9,,[folded],21
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr134,James Hall,,,,,James,,Hall,,,,,,,,,,,,,,,0,2,8,,,32
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr135,James Chackam,,,,,James,,Chackam,,,,,,,,,,,,,,,3,12,8,,,872
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr136,James Champlin,,,,,James,,Champlin,,,,,,,,,,,,,,,0,16,5,,,197
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr137,George Ellsworth,,,,,George,,Ellsworth,,,,,,,,,,,,,,,0,12,4,,,148
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr138,Joseph Comstock,,,,,Joseph,,Comstock,,,,,,,,,,,,,,,0,9,8,,,116
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr139,John Gipson,,,,,John,,Gipson,,,,,,,,,,,,,,,4,9,8,,,1076
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr140,Jonathan Beaker,,,,,Jonathan,,Beaker,,,,,,,,,,,,,,,1,10,0,,,360
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr141,Samuel Calkin,,,,,Samuel,,Calkin,,,,,,,,,,,,,,,0,1,10,,,22
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr142,Josiah Woolcok,,,,,Josiah,,Woolcok,,,,,,,,,,,,,,,2,17,0,unsettled,,684
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr143,John Gromon,,,,,John,,Gromon,,,,,,,,,,,,,,,0,1,4,,,16
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr144,John Rouse,,,,,John,,Rouse,,,,,,,,,,,,,,,0,16,9,,,201
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr145,Able Aimpson,,,,,Able,,Aimpson,,,,,,,,,,,,,,,0,15,9,,,189
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr146,Neamiah Rosel,,,,,Neamiah,,Rosel,,,,,,,,,,,,,,,0,2,11,,,35
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr147,Samuel Monrow Jr,,,,,Samuel,,Monrow jr,,,,,,,,,,,,,,,0,1,5,,,17
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr148,Joshua Lewis,,,,,Joshua,,Lewis,,,,,,,,,,,,,,,2,19,10,,,718
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr149,Jeremih Map,,,,,Jeremih,,Map,,,,,,,,,,,,,,,1,18,6,,,462
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr150,Garadis Faney,,,,,Garadis,,Faney,,,,,,,,,,,,,,,0,1,5,,,17
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr280,John Utter,,,,,John,,Atter,,,,,,,,,,,,,,,1,10,10,,,370
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,cr140,Samuel Smith,,,,,Samuel,,Smith,,,,,,,,,,,,,,,0,1,6,,,18
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr153,Issac Otter,,,,,Issac,,Otter,,,,,,,,,,,,,,,0,3,10,,,46
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr77,Edward Brush,,,,,Edward,,Brush,,,,,,,,,,,,,,,0,10,0,,,120
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr155,David Hill,,,,,David,,Hill,,,,,,,,,,,,,,,0,0,8,,,8
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr156,Joshua Baker,,,,,Joshua,,Baker,,,,,,,,,,,,,,,0,1,8,,,20
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr157,William Bandel,,,,,William,,Bandel,,,,,,,,,,,,,,,0,4,2,,,50
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr158,Amous Allen,,,,,Amous,,Allen,,,,,,,,,,,,,,,0,1,10,,,22
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr159,Isaac Hatch,,,,,Isaac,,Hateh,,,,,,,,,,,,,,,2,5,11,,,551
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr160,James Lee,,,,,James,,Lee,,,,,,,,,,,,,,,2,8,8,,,584
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr161,John Hoss,,,,,John,,Hoss,,,,,,,,,,,,,,,0,6,0,,,72
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr162,Jonathan Breaker,,,,,Jonathan,,Breaker,,,,,,,,,,,,,,,4,2,3,,,987
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr163,Robert Schatten,,,,,Robert,,Schatten,,,,,,,,,,,,,,,0,0,10,,,10
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr338,Roger Stevens,,,,,Roger,,Stephens,,,,,,,,,,,,,,,0,2,1,,,25
+ID16,Christian Sackrider,8644,7,Inventory,8,4,1773,Debtor,dr165,Edward Dolf,,,,,Edward,,Dolf,,,,,,,,,,,,,,,1,16,7,,,439
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr166,Ruffus Catey,,,,,Ruffus,,Catey,,,,,,,,,,,,,,,0,2,10,,,34
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr167,Lameill Hollan,,,,,Lameill,,Hollan,,,,,,,,,,,,,,,2,6,3,,,555
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr168,Samuel Ceavenss,,,,,Samuel,,Ceavenss,,,,,,,,,,,,,,,1,10,8,,,368
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr169,William Tealy,,,,,William,,Tealy,,,,,,,,,,,,,,,0,4,0,,,48
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr170,Jeremiah Maybe,,,,,Jeremih,,Meabe,,,,,,,,,,,,,,,1,13,7,unsettled,,403
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr171,William Devenport,,,,,William,,Devenport ,,,,,,,,,,,,,,,5,2,3.5,unsettled,,1227.5
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr172,Peter Meabe,,,,,Peter,,Meabe,,,,,,,,,,,,,,,0,7,6,,,90
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr173,John Sprage,,,,,John,,Sprage,,,,,,,,,,,,,,,0,1,10,,,22
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,cr364,William Clark,,,,,William,,Clark,,,,,,,,,,,,,,,0,9,0,,,108
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,cr10,Joseph Brown,,,,,Joseph,,Brown,,,,,,,,,,,,,,,0,2,10,,,34
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr176,Samuel Monrow,,,,,Samuel,,Monrow ,,,,,,,,,,,,,,,0,18,3,,,219
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr177,Zachas Mannerly,,,,,Zachas,,Mannerly,,,,,,,,,,,,,,,1,1,0,,,252
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr178,Makus Deimont,,,,,Makus,,Deimont,,,,,,,,,,,,,,,0,13,4,unsettled,,160
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr179,John Simpson,,,,,John,,Simpson,,,,,,,,,,,,,,,6,16,1,,,1633
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr180,Isaac Brinckerhoff,,,,,Isaac,,Brinckerhoff,,,,,,,,,,,,,,,11,2,10,unsettled,,2674
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr181,Hendrick Terboss,,,,,Hendrick,,Terboss,,,,,,,,,,,,,,,0,15,8,,,188
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr182,Matthew Dubois,,,,,Matthew,,Dubois,,,,,,,,,,,,,,,1,8,11,deceased,,347
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr183,Enoch Nelson,,,,,Enoch,,Nelson,,,,,,,,,,,,,,,0,18,3,,,219
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr184,Moses Du Settle,,,,,Moses,,Du Settle,,,,,,,,,,,,,,,1,1,14,,,266
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr185,Isah Coob,,,,,Isah,,coob,,,,,,,,,,,,,,,0,7,4,,,88
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr186,Matthew Winter,,,,,Matthew,,winter,,,,,,,,,,,,,,,0,3,0,,,36
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr187,Thomas Mcneal,,,,,Thomas,,McNeal,,,,,,,,,,,,,,,20,6,0,,,4872
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr188,John Farrel,,,,,John,,Farrel,,,,,,,,,,,,,,,0,7,0,,,84
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr24,Enos Mosher,,,,,Enos,,Mosher,,,,,,,,,,,,,,,0,8,0,,,96
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr179,John Simpson,,,,,John,,Simpson,,,,,,,,,,,,,,,7,0,0,on book,,1680
+ID16,Christian Sackrider,8644,8,Inventory,8,4,1773,Debtor,dr156,Joshua Baker,,,,,Joshua,,Baker,,,,,,,,,,,,,,,0,2,0,on book,,24
+ID17,John Calkin,8645,3,Account of Creditors,8,4,1773,Creditor,cr320,Thomas B. Atwood,,,,,Thomas,B.,Atwood,,,,,,,,,,,,,,,130,0,0,supreme court,,31200
+ID17,John Calkin,8645,3,Account of Creditors,8,4,1773,Creditor,cr321,William Conroy,,,,,William,,Conroy,,,,,,,,,,,,,,,,,,sum unknown,,
+ID17,John Calkin,8645,3,Account of Creditors,8,4,1773,Creditor,cr322,Andrew Moorhouse,,,,,Andrew,,Moorhouse,,,,,,,,,,,,,,,,,,unknown,,
+ID17,John Calkin,8645,3,Account of Creditors,8,4,1773,Creditor,cr323,John Sheldon,,,,,John,,Sheldon,,,,,,,,,,,,,,,1,10,0,,,360
+ID17,John Calkin,8645,3,Account of Creditors,8,4,1773,Creditor,cr324,Mathew Dutcher,,,,,Mathew,,Dutcher,,,,,,,,,,,,,,,,,,unknown,,
+ID17,John Calkin,8645,3,Account of Creditors,8,4,1773,Creditor,cr325,Daniel Merris,,,,,Daniel,,Merris,,,,,,,,,,,,,,,2,10,0,,,600
+ID17,John Calkin,8645,3,Account of Creditors,8,4,1773,Creditor,cr326,John Akin,,,,,John,,Akin,,,,,,,,,,,,,,,5,10,0,,,1320
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr327,Jonathan Akin,,,,,Jonathan,,Akin,,,,,,,,,,,,,,,6,15,0,,,1620
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr328,William Hunt,,,,,William,,Hunt,,,,,,,,,,,,,,,,,,unsettled,,
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr329,John Kane,,,,,John,,Kane,,,,,,,,,,,,,,,13,0,0,,,3120
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr330,Jacob Herrigton,,,,,Jacob,,Herrigton,,,,,,,,,,,,,,,50,0,0,court of common pleas,,12000
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr331,Moses Hontthrop,,,,,Moses,,Hontthrop,,,,,,,,,,,,,,,50,0,0,,,12000
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr58,Benjamin Hatch,,,,,Benjamin,,Hatch,,,,,,,,,,,,,,,0,10,0,,,120
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr333,David Akin,,,,,David,,Akin,,,,,,,,,,,,,,,10,0,0,,,2400
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr101,Malcom Morrison,,,,,Malcom,,Morrison,,,,,,,,,,,,,,,20,0,0,,,4800
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr335,Ruben Close,,,,,Ruben,,Close,,,,,,,,,,,,,,,,,,sum unknown,,
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr336,Elijah Calkin,,,,,Elijah,,Calkin,,,,,,,,,,,,,,,20,0,0,,,4800
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr337,Peter Chapman,,,,,Peter,,Chapman,,,,,,,,,,,,,,,0,16,0,,,192
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr338,Nathaniel Forster,,"""in Company""",,,Nathaniel,,Forster,,,,cr805,Jonathan Paddack,,,,,Jonathn,,Paddack,,,0,12,0,,"""Nathaniel Forster & Jonathan Paddack in Co""",144
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr339,Moskimt,,,,,Moskimt,,,,,,,,,,,,,,,,,,,,sum unknown,,
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr340,Ruben Close Jr,,,,,Ruben,,Close,Jr,,,,,,,,,,,,,,6,0,0,,,1440
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr341,Ludlow,,,New York,Mr,,,Ludlow,,,,,,,,,,,,,,,23,0,0,"attorney, upon bond",,5520
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr342,Daniel Lothrop,,Doctor,,,Daniel,,Lothrop,,,,,,,,,,,,,,,60,0,0,,,14400
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr104,Clear Everitt,,,,,Clear,,Everitt,,,,,,,,,,,,,,,22,10,6,"suit, court of common pleas",,5406
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr122,Bartholomew Crannell Esq.,,,,,Bartholomew,,Crannell,,,,,,,,,,,,,,,,,,sum unknown,,
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr345,William Wayman,,,,,William,,Wayman,,,,,,,,,,,,,,,,,,sum unknown,,
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr346,Charles Cullen,,,,,Charles,,Cullen,,,,cr 806,Neal McNeal,,,,,Neal,,McNeal,,,,,,"sum unknown,","""Charles Cullen & Neal McNeal""",
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,ID17,John Calkin,,,Sheeion ?,,John,,Calkin,,,,,,,,,,,,,,,,,,debt unknown,,
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr348,Moses Dutcher,,,,,Moses,,Dutcher,,,,,,,,,,,,,,,,,,unknown,,
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr349,Peter Harris,,Captain,,,Peter,,Harris,,,,,,,,,,,,,,,,,,,,
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr350,Thomas Lake,,,,,Thomas,,Lake,,,,,,,,,,,,,,,0,8,0,,,96
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr351,Cornalus Osburn,,Doctor,,,Cornalus,,Osben,,,,,,,,,,,,,,,3,10,0,,,840
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr352,Morgin,,Doctor,,,,,Morgin,,,,,,,,,,,,,,,,,,debt unknown,,
+ID17,John Calkin,8645,4,Account of Creditors,8,4,1773,Creditor,cr353,Ebenezer Morrey,,,,,Ebenezer,,Morrey,,,,,,,,,,,,,,,,,,debt unknown,,
+ID17,John Calkin,8645,5,Account of Creditors,8,4,1773,Creditor,cr354,Ebenezer Pacasel,,,,,Ebenezer,,Pacasel,,,,,,,,,,,,,,,0,8,10,,,106
+ID17,John Calkin,8645,5,Account of Creditors,8,4,1773,Creditor,cr355,John Kint,,,,,John,,Kint,,,,,,,,,,,,,,,,,,unknown,,
+ID17,John Calkin,8645,5,Account of Creditors,8,4,1773,Creditor,cr104,Clear Everitt,,,,,Clear,,Everitt,,,,,,,,,,,,,,,,,,uknown,,
+ID17,John Calkin,8645,5,Account of Creditors,8,4,1773,Creditor,cr357,Bartholomew Noxon,,,,,Bartholomew,,Noxon,,,,,,,,,,,,,,,,,,uknown,,
+ID17,John Calkin,8645,5,Account of Creditors,8,4,1773,Creditor,cr358,Benjaman Walsworth,,,,,Benjamin,,Walsworth,,,,,,,,,,,,,,,,,,uknown,,
+ID17,John Calkin,8645,4,Inventory,8,4,1773,Debtor,dr192,Debraah Perry,,,,,Debraah,,Perry,,,,,,,,,,,,,,,0,6,0,,,72
+ID17,John Calkin,8645,4,Inventory,8,4,1773,Debtor,dr193,Neamiah Barlow,,,,,Neamiah,,Barlow,,,,,,,,,,,,,,,0,9,0,,,108
+ID17,John Calkin,8645,4,Inventory,8,4,1773,Debtor,dr194,Moses Pingery,,,,,Moses,,Pingery,,,,,,,,,,,,,,,0,7,6,,,90
+ID17,John Calkin,8645,4,Inventory,8,4,1773,Debtor,dr195,Ephraim Smith,,,,,Ephraim,,Smith,,,,,,,,,,,,,,,3,4,3,on book tho unsettled,,771
+ID17,John Calkin,8645,4,Inventory,8,4,1773,Debtor,dr196,Mathew Bogardus,,,,,Mathew,,Bogardus,,,,,,,,,,,,,,,0,12,6,,,150
+ID17,John Calkin,8645,4,Inventory,8,4,1773,Debtor,dr197,Thankull Fuller,,,,,Thankull,,Fuller,,,,,,,,,,,,,,,0,12,6,,,150
+ID17,John Calkin,8645,4,Inventory,8,4,1773,Debtor,cr 806,Neal McNeal,,,,,Neal,,McNeal,,,,,,,,,,,,,,,,,,unsettled,,0
+ID17,John Calkin,8645,4,Inventory,8,4,1773,Debtor,dr199,Elizabeth Herns,,,,,Elizabeth,,Herns,,,,,,,,,,,,,,,0,0,9,,,9
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr200,Edward Hopkins,,,,,Edward,,Hopkins,,,,,,,,,,,,,,,0,7,0,,,84
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr201,Sarah Craw,,,,,Sarah,,Craw,,,,,,,,,,,,,,,0,0,9,,,9
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr202,Jonas Odel,,,,,Jonas,,Odel,,,,,,,,,,,,,,,0,6,6,,,78
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr203,Gideon Crawfoot,,,,,Gideon,,Crawfoot,,,,,,,,,,,,,,,8,4,10,account on book,,1978
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr204,Elizabeth Marcy,,,,,Elizabeth,,Marcy,,,,,,,,,,,,,,,0,2,6,,,30
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr205,Christopher Start,,,,,Christopher,,Start,,,,,,,,,,,,,,,0,1,0,,,12
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr206,Isaac Willis,,,,,Isaac,,Willis,,,,,,,,,,,,,,,0,2,0,,,24
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr207,Joseph Gifford,,,,,Joseph,,Gifford,,,,,,,,,,,,,,,0,17,9,unsettled upon book,,213
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr208,Joseph Calkin,,,,,Joseph,,Calkin,,,,,,,,,,,,,,,0,4,9,unsettled upon book,,57
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr209,Samuel Goodspeed,,,,,Samuel,,Goodspeed,,,,,,,,,,,,,,,6,18,9,upon book unsettled,,1665
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr210,Joseph Barber,,,,,Joseph,,Barber,,,,,,,,,,,,,,,0,4,6,,,54
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr211,Nathan Birdsill,,,,,Nathan,,Birdsill,,,,,,,,,,,,,,,10,5,7,upon book unsettled,,2467
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr212,Pheby Pyne,,,,,Pheby,,Pyne,,,,,,,,,,,,,,,1,17,6,,,450
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr213,William Coller,,,,,William,,Coller,,,,,,,,,,,,,,,0,18,0,,,216
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr214,John Lee,,,,,John,,Lee,,,,,,,,,,,,,,,0,6,9,,,81
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr215,James Calkin,,,,,James,,Calkin,,,,,,,,,,,,,,,0,6,0,,,72
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr216,Samuel Daly,,,,,Samuel,,Daly,,,,,,,,,,,,,,,0,6,0,,,72
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr217,Samuel Seaben,,,,,Samuel,,Seaben,,,,,,,,,,,,,,,0,13,0,,,156
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr218,Abraham Coneklin,,,,,Abraham,,Coneklin,,,,,,,,,,,,,,,0,15,0,,,180
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr219,Samuel Perry,,,,,Samuel,,Perry,,,,,,,,,,,,,,,4,7,3,upon book unsettled,,1047
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr220,Caleb Hill,,,,,Caleb,,Hill,,,,,,,,,,,,,,,4,4,6,,,1014
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr221,William Brown,,,,,William,,Brown,,,,,,,,,,,,,,,1,15,19,,,439
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr222,Amasiah Bobbet,,,,,Amasiah,,Bobbet,,,,,,,,,,,,,,,0,15,0,,,180
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr223,Jliphelet Launders,,,,,Jliphelet,,Launders,,,,,,,,,,,,,,,0,2,0,,,24
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr224,Henry Ludington,,,,,Henry,,Ludington,,,,,,,,,,,,,,,5,12,0,,,1344
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr225,Ebenezer Stone,,,,,Ebenezer,,Stone,,,,,,,,,,,,,,,2,19,0,,,708
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr226,Ebar Stone,,,,,Ebar,,Stone,,,,,,,,,,,,,,,0,2,0,,,24
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr148,Joshua Lewis,,,,,Joshua,,Lewis,,,,,,,,,,,,,,,0,2,6,,,30
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr228,John Bogardus,,,,,John,,Bogardus,,,,,,,,,,,,,,,11,19,6,upon book unsettled,,2874
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr229,William Gray,,,,,William,,Gray,,,,,,,,,,,,,,,2,13,0,,,636
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr230,Lina Udel,,,,,Lina,,Udel,,,,,,,,,,,,,,,0,16,6,upon book unsettled ,,198
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr231,Nathan Serwood,,,,,Nathan,,Serwood,,,,,,,,,,,,,,,0,3,3,,,39
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr232,Mary Gifford,,,,,Mary,,Gifford,,,,,,,,,,,,,,,0,12,0,,,144
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr233,Joseph Craw,,,,,Joseph,,Craw,,,,,,,,,,,,,,,1,10,6,,,366
+ID17,John Calkin,8645,7,Inventory,8,4,1773,Debtor,dr234,Salvenus Hopkins,,,,,Salvenus,,Hopkins,,,,,,,,,,,,,,,4,7,6,upon book unsettled,,1050
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr235,Alexander Blowers,,,,,Alexander,,Blowers,,,,,,,,,,,,,,,0,9,0,,,108
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr236,Titus Wood,,,,,Titus,,Wood,,,,,,,,,,,,,,,0,7,0,,,84
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr237,Ebenezer Gray,,,,,Ebenezer,,Gray,,,,,,,,,,,,,,,0,6,9,,,81
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr238,Zebash Uttor,,,,,Zebash,,Uttor,,,,,,,,,,,,,,,2,6,3,upon book unsettled,,555
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr239,Elisha Allen,,,,,Elisha,,Allen,,,,,,,,,,,,,,,0,1,0,,,12
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr240,Rebecca Rubbilla,,,,,Rebecca,,Rubbilla,,,,,,,,,,,,,,,0,4,6,,,54
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr241,Jonathan Ffnger,,,,,Jonathan,,fFnger,,,,,,,,,,,,,,,0,1,6,,,18
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr242,Dyer Wood,,,,,Dyer,,Wood,,,,,,,,,,,,,,,0,1,6,,,18
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr243,Elizabeth Lamphier,,,,,Elizabeth,,Lamphier,,,,,,,,,,,,,,,0,3,6,,,42
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,cr329,John Kane,,,,,John,,Kane,,,,,,,,,,,,,,,24,16,3,upon book unsettled,,5955
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr245,John Clausen,,,,,John,,Clausen,,,,,,,,,,,,,,,2,12,6,,,630
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr246,Mr Chatfield,,,,Mr,,,Chatfield,,,,,,,,,,,,,,,0,5,0,,,60
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr247,Pilatiel Bruster,,,,,Pilatiel,,Bruster,,,,,,,,,,,,,,,0,3,6,,,42
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr248,Maxwell Taylor,,,,,Maxwell,,Taylor,,,,,,,,,,,,,,,1,0,0,,,240
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr249,Hannah Briggs,,,,,Hannah,,Briggs,,,,,,,,,,,,,,,0,2,9,,,33
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr250,Jane Payne,,,,,Jane,,Payne,,,,,,,,,,,,,,,1,18,10,widow,,466
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr170,Jeremiah Maybe,,,,,Jeremiah,,Maybe,,,,,,,,,,,,,,,0,7,2,,,86
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr252,Mathias Marsh,,,,,Mathias,,Marsh,,,,,,,,,,,,,,,0,4,6,,,54
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr253,Nicholas Weaver,,,,,Nicholas,,Weaver,,,,,,,,,,,,,,,0,2,0,,,24
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr254,John Ryan,,,,,John,,Ryan,,,,,,,,,,,,,,,0,12,0,,,144
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,cr335,Ruben Close,,,,,Roben,,Close,,,,,,,,,,,,,,,5,15,6,upon book unsettled,,1386
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr256,John Steward,,,,,John,,Steward,,,,,,,,,,,,,,,0,1,6,,,18
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr257,Stephen Davis,,,,,Stephen,,Davis,,,,,,,,,,,,,,,0,11,9,,,141
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr258,George Haburn,,,,,George,,Haburn,,,,,,,,,,,,,,,2,16,9,"upon note of hand, deceased",,681
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr259,widow Ann Hepburn,,,,widow,Ann,,Hepburn,,,,,,,,,,,,,,,1,10,6,,,366
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr214,John Lee,,,,,John,,Lee,,,,,,,,,,,,,,,1,12,7,,son of Thomas Lee,391
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr261,Soloman Ludington,,,,,Soloman,,Ludington,,,,,,,,,,,,,,,0,18,3,,,219
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr262,Amos Shervey,,,,,Amos,,Shervey,,,,,,,,,,,,,,,0,10,0,,,120
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr263,Mary Moorhouse,,,,,Mary,,Moorhouse,,,,,,,,,,,,,,,0,0,9,,,9
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr264,William Davis,,,,,William,,Davis,,,,,,,,,,,,,,,0,0,9,,,9
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr265,Thomas Lamb,,,,,Thomas,,Lamb,,,,,,,,,,,,,,,0,10,0,,,120
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr266,Amos Burdick,,,,,Amos,,Burdick,,,,,,,,,,,,,,,0,8,0,,,96
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr267,William Stevens jr,,,,,William,,Stevens ,jr,,,,,,,,,,,,,,2,13,6,unsettled,,642
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr268,Ezekel Hodges,,,,,Ezekel,,Hodges,,,,,,,,,,,,,,,0,10,0,,,120
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,cr321,William Conroy,,,,,William,,Conroy,,,,,,,,,,,,,,,0,12,6,upon book unsettled,,150
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr270,Jerediah Jrish,,,,,Jerediah,,Jrish,,,,,,,,,,,,,,,0,1,0,,,12
+ID17,John Calkin,8645,8,Inventory,8,4,1773,Debtor,dr271,Jeabut Turner,,,,,Jeabut,,Turner,,,,,,,,,,,,,,,2,7,3,unsettled,,567
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr272,Abraham Hodeges,,,,,Abraham,,Hodeges,,,,,,,,,,,,,,,12,10,11,unsettled,,3011
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr273,Jerediah Frost,,,,,Jerediah,,Frost,,,,,,,,,,,,,,,0,8,9,,,105
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr274,Sarah Evans,,,,,Sarah,,Evans,,,,,,,,,,,,,,,0,1,6,widow,,18
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr275,Stephen Myles,,,,,Stephen,,Myles,,,,,,,,,,,,,,,0,10,0,,,120
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr276,Jacob Newman,,,,,Jacob,,Newman,,,,,,,,,,,,,,,0,11,0,on balance,,132
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr277,Simeon Bunoy,,,,,Simeon,,Bunoy,,,,,,,,,,,,,,,0,6,6,,,78
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr278,Thomas Hill,,,,,Thomas,,Hill,,,,,,,,,,,,,,,0,3,6,,,42
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,cr322,Andrew Moorhouse,,,,,Andrew,,Moorhouse,,,,,,,,,,,,,,,4,8,1,upon book unsettled,,1057
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr280,John Utter,,Doctor,,,John,,Utter,,,,,,,,,,,,,,,6,9,7,upon note and book,,1555
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr281,William Hauley,,,,,William,,Hauley,,,,,,,,,,,,,,,0,17,6,,,210
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr173,John Sprage,,,,,John,,Spraig,,,,,,,,,,,,,,,3,18,7,Book debt unsettled,,943
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr283,Moses Allen,,,,,Moses,,Allen,,,,,,,,,,,,,,,0,2,3,,,27
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr47,Gideon Chase,,,,,Gideon,,Chase,,,,,,,,,,,,,,,0,15,3,,,183
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr285,Samuel Spalding Jr.,,,,,Samuel,,Spalding ,Jr.,,,,,,,,,,,,,,0,11,0,,,132
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr286,Simeon Amos,,,,,Simeon,,Amos,,,,,,,,,,,,,,,0,2,9,,,33
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr287,Daniel Bradly,,,,,Daniel,,Bradly,,,,,,,,,,,,,,,0,2,7,,,31
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr288,John Seamer,,,,,John,,Seamer,,,,,,,,,,,,,,,0,0,9,,,9
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr289,Elkenny Hopkins,,,,,Elkenny,,Hopkins,,,,,,,,,,,,,,,0,5,6,,,66
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr290,Benjamin Hamilton,,,,,Benjamin,,Hamilton,,,,,,,,,,,,,,,1,1,0,,,252
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr291,Daniel Hunt,,,,,Daniel,,Hunt,,,,,,,,,,,,,,,4,8,0,book debt unsettled,,1056
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr292,Joseph Moss,,,,,Joseph,,Moss,,,,,,,,,,,,,,,0,17,0,book debt unsettled,,204
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr293,Edward Willcocks,,,,,Edward,,Willcocks,,,,,,,,,,,,,,,0,4,0,,,48
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr294,Mr{Mrs} ? Nichols,,,,Mr{Mrs} ?,,,Nichols,,,,,,,,,,,,,,,1,0,0,runaway,,240
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr295,Michael Devil,,,,,Michael,,Devil,,,,,,,,,,,,,,,1,7,9,unsettled,,333
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr296,Robert Kane,,,,,Robert,,Kane,,,,,,,,,,,,,,,3,13,5,unsettled,,881
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr297,Elisha Kellog,,,,,Elisha,,Kellog,,,,,,,,,,,,,,,3,3,2,unsettled,,758
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr298,Joseph Crane Jr,,,,,Joseph,,Crane jr,,,,,,,,,,,,,,,10,17,11,upon note and book unsettled,,2615
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr299,Mary Patterson,,,,,Mary,,Patterson,,,,,,,,,,,,,,,0,7,9,,,93
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr300,James Paddock,,,,,James,,Paddock,,,,,,,,,,,,,,,0,5,9,,,69
+ID17,John Calkin,8645,9,Inventory,8,4,1773,Debtor,dr301,Mr. Thomas,,,,Mr.,,,Thomas,,,,,,,,,,,,,,,0,1,6,,"""old Mr.""",18
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr302,William Benson,,,,,William,,Benson,,,,,,,,,,,,,,,0,12,6,,,150
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr303,Stephen Moon,,,,,Stephen,,Moon,,,,,,,,,,,,,,,0,4,11,,,59
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr159,Isaac Hatch,,,,,Isaac,,Hatch,,,,,,,,,,,,,,,3,17,5,unsettled on book,,929
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr40,Thomas Dickenson,,,,,Thomas,,Dickenson,,,,,,,,,,,,,,,1,9,3,unsettled ,,351
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr306,Jedadiah Jinkins,,,,,Jedadiah,,Jinkins,,,,,,,,,,,,,,,1,0,3,unsettled,,243
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr307,Jonathan Vicorry,,,,,Jonathan,,Vicorry,,,,,,,,,,,,,,,0,3,9,,,45
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr308,Noah Jillet,,,,,Noah,,Jillet,,,,,,,,,,,,,,,0,10,0,,,120
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr309,Henry Wilcocks,,,,,Henry,,Wilcocks,,,,,,,,,,,,,,,0,1,6,,,18
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr310,James Bundy,,,,,James,,Bundy,,,,,,,,,,,,,,,0,11,0,,,132
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr311,Merium Hulse,,,,,Merium,,Hulse,,,,,,,,,,,,,,,0,3,0,,,36
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr312,Israel Westcot,,,,,Israel,,Westcot,,,,,,,,,,,,,,,0,5,6,,,66
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr313,John Spraig Jr.,,,,,John,,Spraig ,Jr.,,,,,,,,,,,,,,0,6,9,,,81
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr314,John Stevens,,,Danberry,,John,,Stevens ,,,,,,,,,,,,,,,0,6,0,,,72
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr315,Isaac Commeons,,,,,Isaac,,Commeons,,,,,,,,,,,,,,,0,13,6,,,162
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,cr643,Simeon Covel,,,,,Simeon,,Covel,,,,,,,,,,,,,,,0,3,0,,,36
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr317,William Hamilton,,,,,William,,Hamilton,,,,,,,,,,,,,,,0,13,6,,,162
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr318,Simeon Tongs,,,,,Simeon,,Tongs,,,,,,,,,,,,,,,0,1,0,,,12
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr319,William Castle,,,,,William,,Castle,,,,,,,,,,,,,,,0,1,6,,,18
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr320,Joseph Hubbard,,,,,Joseph,,Hubbard,,,,,,,,,,,,,,,0,7,6,,,90
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr321,Isaac Crosby,,,,,Isaac,,Crosby,,,,,,,,,,,,,,,0,4,9,,,57
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr322,Mr Millwell,,,,Mr,,,Millwell,,,,,,,,,,,,,,,0,1,0,,"""old Mr.""",12
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr323,Timothy Millard,,,,,Timothy,,Millard,,,,,,,,,,,,,,,0,5,6,,,66
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr324,Ruben Herrington,,,,,Ruben,,Herrington,,,,,,,,,,,,,,,2,11,1,,,613
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr325,Unis Craw,,,,,Unis,,Craw,,,,,,,,,,,,,,,0,0,9,,,9
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr326,John Paddock,,,,,John,,Paddock,,,,,,,,,,,,,,,0,4,8,,,56
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr327,Benjamin Dean,,,,,Benjamin,,Dean,,,,,,,,,,,,,,,0,7,3,,,87
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr328,Johial Stevens,,,,,Johial,,Stevens,,,,,,,,,,,,,,,0,1,0,,,12
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr329,Mr. Silsbe,,,,Mr.,,,silsbe,,,,,,,,,,,,,,,0,10,0,,"""old Mr.""",120
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr330,Thomas Frost,,,,,Thomas,,Frost,,,,,,,,,,,,,,,0,15,9,,,189
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,cr328,William Hunt,,,,,William,,Hunt,,,,,,,,,,,,,,,9,17,3,account unsettled,,2367
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr332,Gideon Ellis,,,,,Gideon,,Ellis,,,,,,,,,,,,,,,0,1,6,,,18
+ID17,John Calkin,8645,10,Inventory,8,4,1773,Debtor,dr333,Moses Florig,,,,,Moses,,Florig,,,,,,,,,,,,,,,1,4,9,,,297
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr334,Phebe Wright,,,,,Phebe,,Wright,,,,,,,,,,,,,,,0,0,9,,,9
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr335,Thomas Brown,,,,,Thomas,,Brown,,,,,,,,,,,,,,,2,19,9,unsettled,,717
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr336,Alkina Bobbett,,,,,Alkina,,Bobbett,,,,,,,,,,,,,,,1,12,6,deceased,,390
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr117,Noah Lee,,,,,Noah,,Lee,,,,,,,,,,,,,,,1,9,0,,,348
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr338,Roger Stevens,,,,,Roger,,Stevens,,,,,,,,,,,,,,,0,14,3,,,171
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr339,Lucas Carter,,,,,Lucas,,Carter,,,,,,,,,,,,,,,1,5,6,,,306
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr340,David Malary,,,,,David,,Malary,,,,,,,,,,,,,,,0,16,9,,,201
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr341,Joshua Wilcocks,,,,,Joshua,,Wilcocks,,,,,,,,,,,,,,,1,8,9,unsettled,,345
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr342,Ebenezer Perry,,,,,Ebenezer,,Perry,,,,,,,,,,,,,,,4,0,6,note and book debt,,966
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr343,Thomas Willcocks,,,,,Thomas,,Willcocks,,,,,,,,,,,,,,,0,4,6,,,54
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr344,John Brown,,,,,John,,Brown,,,,,,,,,,,,,,,0,4,6,,,54
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr345,Isaac Grover,,,,,Isaac,,Grover,,,,,,,,,,,,,,,0,16,0,,,192
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr346,Mr Barnet,,,,Mr,,,Barnet,,,,,,,,,,,,,,,0,5,0,,,60
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr347,Philip Holdridge,,,,,Philip,,Holdridge,,,,,,,,,,,,,,,0,4,0,,,48
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr348,Henry Earl,,,,,Henry,,Earl,,,,,,,,,,,,,,,0,5,0,,,60
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr349,Jonathan Elliot,,,,,Jonathan,,Elliot,,,,,,,,,,,,,,,0,1,6,,,18
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr350,Moses Herrington,,,,,Moses,,Herrington,,,,,,,,,,,,,,,0,2,6,,,30
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr351,Mary Elnerson,,,,,Mary,,Elnerson,,,,,,,,,,,,,,,0,2,3,,,27
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr352,Stephen Tuttle,,,,,Stephen,,Tuttle,,,,,,,,,,,,,,,0,2,3,,,27
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr353,Jacob Siseo,,,,,Jacob,,Siseo,,,,,,,,,,,,,,,0,2,0,,,24
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr354,Zebulon Shipey,,,,,Zebulon,,Shipey,,,,,,,,,,,,,,,0,13,8,,,164
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr355,Gideon Osterhouse,,,,,Gideon,,Osterhouse,,,,,,,,,,,,,,,1,16,6,,,438
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr356,Eliza Cary,,,,,Eliza,,Cary,,,,,,,,,,,,,,,0,2,6,,,30
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr357,Isaac Lake,,,,,Isaac,,Lake,,,,,,,,,,,,,,,0,6,3,,,75
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr358,Joseph Curtis,,,,,Joseph,,curtis,,,,,,,,,,,,,,,0,2,0,,,24
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr359,Nathan Hatch,,,,,Nathan,,Hatch,,,,,,,,,,,,,,,0,15,3,,,183
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr360,Josiah Benjamins,,,,,Josiah,,Benjamins,,,,,,,,,,,,,,,0,10,9,unsettled,,129
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr361,Dow,,Blacksmith,,,Dow,,,,,,,,,,,,,,,,,0,3,0,,,36
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr362,Mary Hoig,,,,,Mary,,Hoig,,,,,,,,,,,,,,,0,9,0,,,108
+ID17,John Calkin,8645,11,Inventory,8,4,1773,Debtor,dr363,Francis Hopkins,,,,,Francis,,Hopkins,,,,,,,,,,,,,,,0,13,9,,,165
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr364,James Henry,,,,,James,,Henry,,,,,,,,,,,,,,,1,8,6,,,342
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr365,Joseph Dewey,,,,,Joseph,,Dewey,,,,,,,,,,,,,,,0,4,9,,,57
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr366,Stephen Pray,,,,,Stephen,,Pray,,,,,,,,,,,,,,,0,7,9,,,93
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr367,Joshua Millard,,,,,Joshua,,Millard,,,,,,,,,,,,,,,0,14,9,,,177
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr368,John June,,,,,John,,June,,,,,,,,,,,,,,,0,0,10,,,10
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr369,John June Jr.,,,,,John,,June ,Jr.,,,,,,,,,,,,,,0,15,3,,crossed out,183
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr370,Thankfull Haws,,,,,Thankfull,,Haws,,,,,,,,,,,,,,,0,6,0,,,72
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr371,Mcdaniel Taylor,,,,,McDaniel,,Taylor,,,,,,,,,,,,,,,0,3,0,,,36
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr372,Daniel Elliot,,,,,Daniel,,Elliot,,,,,,,,,,,,,,,0,2,2,,,26
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr373,Mr Nichols,,,,Mr,,,Nichols,,,,,,,,,,,,,,,0,11,0,,"""Old Mr""",132
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr374,Abner Bangs,,,,,Abner,,Bangs,,,,,,,,,,,,,,,0,9,0,deceased,,108
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr375,Gideon Gifford,,,,,Gideon,,Gifford,,,,,,,,,,,,,,,0,15,3,,,183
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr376,John Johnson,,,,,John,,Johnson,,,,,,,,,,,,,,,0,14,0,,,168
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr377,Anne Finne,,,,,Anne,,Finne,,,,,,,,,,,,,,,0,1,3,,,15
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr378,Jesse Burdick,,,,,Jesse,,Burdick,,,,,,,,,,,,,,,0,0,9,,,9
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr379,Mr Voree,,,,Mr,,,Voree,,,,,,,,,,,,,,,0,5,3,,,63
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr380,Issac Wilcocks,,,,,Issac,,Wilcocks,,,,,,,,,,,,,,,0,4,6,,,54
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr381,Sarah Langford,,,,,Sarah,,Langford,,,,,,,,,,,,,,,0,13,3,,,159
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr382,Theodorus Crosby,,,,,Theodorus,,Crosby,,,,,,,,,,,,,,,0,1,6,,,18
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr383,Elizabeth Evans,,,,,Elizabeth,,Evans,,,,,,,,,,,,,,,0,6,0,,,72
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr384,Simeon Ellis,,,,,Simeon,,Ellis,,,,,,,,,,,,,,,0,18,0,,,216
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr385,James Hunt,,,,,James,,Hunt,,,,,,,,,,,,,,,0,7,9,,,93
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr386,Josiah Perry,,,,,Josiah,,Perry,,,,,,,,,,,,,,,0,2,6,,,30
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr387,Seth Covel,,,,,Seth,,Covel,,,,,,,,,,,,,,,0,14,0,,,168
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr388,Josiah Streeder,,,,,Josiah,,Streeder,,,,,,,,,,,,,,,0,1,0,,,12
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr389,Malitier Hateh Jr,,,,,Malitier,,Hateh ,Jr,,,,,,,,,,,,,,1,18,2,upon note and book,,458
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr390,John Price,,,,,John,,Price,,,,,,,,,,,,,,,2,17,6,upon note ,,690
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr391,Samuel Calkin Jr,,,,,Samuel,,Calkin ,Jr,,,,,,,,,,,,,,1,7,6,,,330
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr392,David Durell,,,,,David,,Durell,,,,,,,,,,,,,,,3,12,6,,,870
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr393,Eisah Calkin Jr,,,,,Eisah,,Calkin ,Jr,,,,,,,,,,,,,,0,4,4,upon note,,52
+ID17,John Calkin,8645,12,Inventory,8,4,1773,Debtor,dr394,Joseph Wood,,,,,Joseph,,Wood,,,,,,,,,,,,,,,4,11,9,upon note,,1101
+ID17,John Calkin,8645,13,Inventory,8,4,1773,Debtor,dr395,Mingo Lango,,,,,Mingo,,Lango,,,,,,,,,,,,,,,0,18,0,a free Negro,,216
+ID17,John Calkin,8645,13,Inventory,8,4,1773,Debtor,dr396,Nathan Herns,,,,,Nathan,,Herns,,,,,,,,,,,,,,,3,18,9,upon note,,945
+ID17,John Calkin,8645,13,Inventory,8,4,1773,Debtor,dr397,Levey Marks,,,,,Levey,,Marks,,,,,,,,,,,,,,,400,0,0,,,96000
+ID17,John Calkin,8645,13,Inventory,8,4,1773,Debtor,dr398,William Stevens,,,,,William,,Stevens,,,,,,,,,,,,,,,8,0,0,,,1920
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr359,Richard Lawrence,1,,,,Richard,,Lawrence,,,,,,,,,,,,,,,124,0,6,on bond,,29766
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr175,Jacobus Depeyster,1,,,,Jacobus,,Depeyster,,,,,,,,,,,,,,,82,4,3,on bond,"""In order to discharge the above two debts i have conveyed to Henry Rosakrow jr. a farm I held in rumbout precinctand a bond david warp give to said Rosakrow for 20.0.0 for which he undertook to pay those two debts and discharge me from the same",19731
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr148,Murray Lester,,,,,Murrey,,Lester,,,,,,,,,,,,,,,,,,account unsettled,,
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr362,Michael Vintson,,,,,Michael,,Vintson,,,,,,,,,,,,,,,2,5,0,,,540
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr68,Samuel Dorland,,,,,Samuel,,Durland,,,,,,,,,,,,,,,,,,account unsettled,,
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr364,William Clark,,,,,William,,Clark,,,,,,,,,,,,,,,2,0,0,,,480
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr365,John Javel,,,,,John,,Javel,,,,,,,,,,,,,,,0,15,0,,,180
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr366,William Edward,,,,,William,,Edwards,,,,,,,,,,,,,,,0,,0,0,,0
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr367,Peter Montford Esq.,,,,,Peter,,Montford,Esq.,,,,,,,,,,,,,,0,15,0,,,180
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr368,Cornalus Luyster,,,,,Cornalus,,Luyster,,,,,,,,,,,,,,,1,18,0,,,456
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr369,Abraham Lent,,,,,Abraham,,Lant,,,,,,,,,,,,,,,,,,"""spont account unsettled""",,
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr104,Clear Everitt,1,,,,Clear,,Everitt,,,,,,,,,,,,,,,,,,,,
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr178,Philip Verplank,,,,,Philip,,Verplank,,,,,,,,,,,,,,,,,,casp.,"[in petition, see samuel verplank petitioning, can one person peition for another person?]",
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr372,Abraham Skanck,,,,,Abraham,,Skanck,,,,,,,,,,,,,,,0,10,0,,,120
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr138,Dirck Brinckerhoff Esq.,,,,,Dirck,,Brinckerhoff,,,,,,,,,,,,,,,10,0,0,on bond with interest,,2400
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr192,John Claming,,,,,John,,Clamings,,,,,,,,,,,,,,,,,,account unsettled,,
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr375,John Schutt,,,,,John,,Schutt,,,,,,,,,,,,,,,2,0,0,,,480
+ID18,John Way,2074,6,Account of Creditors,4,22,1773,Creditor,cr249,Henry Beekman,,,,,Henry,,Backman,,,,,,,,,,,,,,,30,0,0,bond with interest,,7200
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr67,Wandel Overocker,,,,,Wandel,,Over Acker,,,,,,,,,,,,,,,8,0,0,,,1920
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr351,Cornalus Osburn,,Doctor,,,Cornalus,,Osburn,,,,,,,,,,,,,,,,,,account unsettled,,
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr379,Theadoris Van Wayck 1,,,New York,,Theadoris,,Van Wayck,,,,,,,,,,,,,,,4,19,0,,,1188
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr380,Theadoris Van Wayck 2,,,Rumbout,,Theadoris,,Van Wayck,,,,,,,,,,,,,,,,,,account unsettled,,
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr381,Theadoris Van Wayck 3,,Doctor,,,Theadoris,,Van Wayck,,,,,,,,,,,,,,,,,,account unsettled,,
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr69,Charles Le Roux,,,,,Charles,,Lu Rusx,,,,,,,,,,,,,,,218,0,0,on bond,,52320
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr298,Stephen Thorn,,Doctor,,,Stephen,,Thorn,,,,,,,,,,,,,,,,,,account unsettled,,
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr384,Johannis Shurry,,,,,Johannis,,Shurry,,,,,,,,,,,,,,,,,,account unsettled,,
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr385,Sylvester Bloom,,,,,Sylvester,,Bloom,,,,,,,,,,,,,,,0,5,0,,,60
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr367,Peter Montford Esq.,,,,,Peter,,Montford,,,,,,,,,,,,,,,0,3,0,"""at the sporat about""",,36
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr387,John G. Brinckerhoff,,,,,John G.,,Brinckerhofff,,,,,,,,,,,,,,,0,5,2,,,62
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr388,James Mcready,,,,,James,,McReady,,,,,,,,,,,,,,,,,,account unsettled,,
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr389,Hoffman,,Colonel,,,,,Hoffman,,,,,,,,,,,,,,,,,,account unsettled,,
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr390,William Van Antwanping,,,,,William,,Van Antwanping,,,,,,,,,,,,,,,,,,account unsettled,,
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr391,Teunis Van Benschoten,,,,,Teunis,,Van Bintscheaten,,,,,,,,,,,,,,,2,16,8,,,680
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr293,John Cook,,,,,John,,Cooke,,,,,,,,,,,,,,,,,,on note,,
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr393,Samuel Cooke,,Doctor,,,Samuel,,Cooke,,,,,,,,,,,,,,,,,,,,
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr394,Chancey Graham,,Reverend,,,Chancey,,Graham,,,,,,,,,,,,,,,,,,account unsettled,,
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr395,Doloris Swartwout,,,,,Doloris,,Swartwout,,,,,,,,,,,,,,,1,3,0,,,276
+ID18,John Way,2074,7,Account of Creditors,4,22,1773,Creditor,cr396,Sarah Nooshant,,,,,Sarah,,Nooshant,,,,,,,,,,,,,,,0,12,0,,,144
+ID18,John Way,2074,5,Inventory,4,22,1773,Debtor,dr399,Peter Davison,,,,,Peter,,Davison,,,,,,,,,,,,,,,3,12,0,,,864
+ID18,John Way,2074,5,Inventory,4,22,1773,Debtor,dr400,Jacobus Van Stenbergh,,,,,Jacobus,,Van Stenbergh,,,,,,,,,,,,,,,,,,account unsettled,,0
+ID18,John Way,2074,5,Inventory,4,22,1773,Debtor,dr401,Moses Deaposs,,,,,Moses,,Deaposs,,,,,,,,,,,,,,,,,,account unsettled,,0
+ID18,John Way,2074,5,Inventory,4,22,1773,Debtor,dr402,Robert Every,,,,,Robert,,Every,,,,,,,,,,,,,,,0,3,0,,,36
+ID18,John Way,2074,5,Inventory,4,22,1773,Debtor,dr403,Joshua Griffin,,,,,Joshua,,Griffin,,,,,,,,,,,,,,,0,3,0,,,36
+ID18,John Way,2074,5,Inventory,4,22,1773,Debtor,dr404,James Franks,,,,,James,,Franks,,,,,,,,,,,,,,,,,,account unsettled,,0
+ID18,John Way,2074,5,Inventory,4,22,1773,Debtor,dr405,John Roger,,,,,John,,Roger,,,,,,,,,,,,,,,14,6,0,on note and book in the of Mr Bartholomew Crannel,,3432
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr397,Isaac Terboss,1,,,,Isaac,,Terbush,,Terboss,,,,,,,,,,,,,107,0,0,,,25680
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr173,James Livingston Esq.,,,,,James,,Livingston,,,,,,,,,,,,,,,16,0,0,,,3840
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr148,Murray Lester,,,,,Murray,,Lester,,,,,,,,,,,,,,,10,0,0,,,2400
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr400,Daniel Sacket,,,,,Daniel,,Sacket,,,,,,,,,,,,,,,19,0,0,,,4560
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr401,George Pesion,,blacksmith,,,George,,Pesion,,,,,,,,,,,,,,,16,0,0,,,3840
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr402,Richard Vrudecker,,,,,Richard,,Vrudecker,,,,,,,,,,,,,,,6,10,0,,,1560
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr403,John Clemmens,1,,,,John,,Clemmens,,Clements,,,,,,,,,,,,,17,0,0,,,4080
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr404,John Amagh,,,,,John,,Amagh,,,,,,,,,,,,,,,5,0,0,,,1200
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr405,Teunis Tappen,,,,,Teunis,,Tappen,,,,,,,,,,,,,,,5,0,0,,,1200
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr67,Wandel Overocker,,,,,Wendele,,Overocker,,,,,,,,,,,,,,,2,0,0,,,480
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr366,William Edward,,,,,William,,Edward,,,,,,,,,,,,,,,1,10,0,,,360
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr408,Peter Bogardus,,,,,Peter,,Bogardus,,,,,,,,,,,,,,,16,0,0,,,3840
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr200,Leonard Van Kleeck,,,,,Leonard,,Van Kleeck,,,,,,,,,,,,,,,10,0,0,,,2400
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr410,John Davis,,,,,John,,Davis,,,,,,,,,,,,,,,3,13,0,,,876
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr411,John J. Van Kleeck,,,,,John,J.,Van Kleeck,,,,,,,,,,,,,,,2,10,0,,,600
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr412,John Barnet,,,,,John,,Barnet,,,,cr807,Peter Corne,1,,,,Peter,,Corne,,Corney,19,0,0,,"""John Barnet & Peter Corne""",4560
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr68,Samuel Dorland,,,,,Samuel,,Dorland,,,,,,,,,,,,,,,5,0,0,,,1200
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr414,Jeremiah Doughy,,,,,Jeremiah,,Doughy,,,,,,,,,,,,,,,8,0,0,,,1920
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr415,John Terpinny,,,,,John,,Terpinny,,,,,,,,,,,,,,,24,0,0,,,5760
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr349,Peter Harris,1,,,,Peter,,Harris,,,,,,,,,,,,,,,22,0,0,with costs,,5280
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr417,Nathaniel Thorn,,,,,Nathaniel,,Thorn,,,,,,,,,,,,,,,4,0,0,,,960
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr418,Peter Ketteman,,,,,Peter,,Ketteman,,,,,,,,,,,,,,,2,10,0,,,600
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr122,Bartholomew Crannell Esq.,,,,,Batholomew,,Crannell,,,,,,,,,,,,,,,15,0,0,,,3600
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr420,Cornelius Hegeman,,,,,Cornelius,,Hegeman,,,,,,,,,,,,,,,2,15,0,,,660
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr421,Fredrick Roukoanse,,,,,Fredrick,,Roukoanse,,,,,,,,,,,,,,,1,10,0,,,360
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr422,Henry Roukoanse,,,,,Henry,,Roukoanse,,,,,,,,,,,,,,,10,9,0,,,2508
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr423,Bernard Dutcher,,,,,Bernard,,Dutcher,,,,,,,,,,,,,,,2,10,0,,,600
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr424,William Rogers,,,,,William,,Rogers,,,,,,,,,,,,,,,0,15,0,,,180
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr425,Isaac Sheldon,,,,,Isaac,,sheldon,,,,,,,,,,,,,,,3,10,0,,,840
+ID19,John Copeman,2128,1,Account of Creditors,4,15,1774,Creditor,cr426,William Emmot,,,,,William,,Emmot,,,,,,,,,,,,,,,0,6,0,,,72
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr427,John Simmons,,merchant,,,John,,Simonds,,,,,,,,,,,,,,,2,10,0,on book,,600
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr428,Abraham Frier,,,,,Abraham,,Frier,,,,,,,,,,,,,,,5,0,0,on Justis Exection,,1200
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr68,Samuel Dorland,,,,,Samuel,,Durling,,,,,,,,,,,,,,,5,0,0,on Justis Exection,,1200
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr430,Siman Noxson,,,,,Siman,,Noxson,,,,,,,,,,,,,,,2,4,0,on book,,528
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr431,John Michael Rutson,,,,,John Michael,,Rutson,,,,,,,,,,,,,,,3,0,0,on book and note,,720
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr432,John Vandenbrough,,,,,John,,Vandenbrough,,,,,,,,,,,,,,,0,3,0,,,36
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr433,Timothy Closon,,,,,Timothy,,Closon,,,,,,,,,,,,,,,2,10,0,,,600
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr434,Minard Bogard,,,,,Minard,,Bogard,,,,,,,,,,,,,,,3,7,0,,,804
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr410,John Davis,,,,,John,,Davis,,,,,,,,,,,,,,,0,14,0,,,168
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr436,John Crandell,,,,,John,,Crandle,,,,,,,,,,,,,,,7,4,0,,,1728
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr437,Jacobus Polmetre,,,,,Jacobus,,Polmetre,,,,,,,,,,,,,,,5,0,0,,,1200
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr438,Jonathan Moorey,,,,,Jonathan,,Moorey,,,,,,,,,,,,,,,11,15,0,,,2820
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr439,John Low,,,,,John,,Low,,,,,,,,,,,,,,,1,5,0,,,300
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr440,Wince Manence,,,,,Wince,,Manence,,,,,,,,,,,,,,,3,0,0,,,720
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr441,Marey Winderford,,,,,Marey,,Winderford,,,,,,,,,,,,,,,0,16,0,,,192
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr442,Henry Livingston Jr,,,,,Henry,,Livingston,Jr,,,,,,,,,,,,,,0,1,2,,,14
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr443,John Southerland,,,,,John,,Southerland,,,,,,,,,,,,,,,0,12,0,on note,,144
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr444,Elia Emonds,,,,,Elia,,Emonds,,,,,,,,,,,,,,,2,2,6,,,510
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr118,Evert Bogardus,,,,,Evred,,Burgrodus,,,,,,,,,,,,,,,2,0,0,,,480
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr220,William Radley,,,,,William,,Radly,,,,,,,,,,,,,,,8,10,0,on book,,2040
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr219,Jacob Kip,,,,,Jacobus,,Keep,,,,,,,,,,,,,,,3,0,0,,,720
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr448,John Steenburgh,,,,,John,,Stenbaregh,,,,,,,,,,,,,,,3,0,0,on book,,720
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr449,Levey Pearce,,,,,Levey,,Pearce,,,,,,,,,,,,,,,3,12,6,,,870
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr450,George Conwright,,,,,George,,Conwright,,,,,,,,,,,,,,,4,10,0,on note,,1080
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr287,David Southerland,,,,,David,,Southerland,,,,,,,,,,,,,,,3,0,0,on book,,720
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr452,Thomas Orr Jr.,,,,,Thomas,,Orr,Jr.,,,,,,,,,,,,,,1,0,0,,,240
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr453,Hontice Couse,,,,,Hontice,,Couse,,,,,,,,,,,,,,,2,2,6,on note,,510
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr249,Henry Beekman,,Colonel,,,Henry,,Bakeman,,,,,,,,,,,,,,,0,17,0,,,204
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr455,Paul Cruker,,,,,Paul,,Cruker,,,,,,,,,,,,,,,0,15,0,on book,,180
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr456,Samuel Foster,,,,,Samuel,,Foster,,,,,,,,,,,,,,,1,10,0,on book,,360
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr228,Henry Fraleigh,,,,,Henry,,Frillick,,,,,,,,,,,,,,,1,11,0,on book,,372
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr223,George Fraligh,,,,,George,,Frillick,,,,,,,,,,,,,,,2,12,0,on book,,624
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr119,Simon Cole,,,,,Siman,,Cole,,,,,,,,,,,,,,,0,16,0,on book,,192
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr460,John Scrivner,,,,,John,,Scrivner,,,,,,,,,,,,,,,0,2,4,,,28
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr461,Cristeon Seriver,,,,,Cristeon,,Seriver,,,,,,,,,,,,,,,0,2,4,,,28
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr462,Mathias Swain,,,,,Mathias,,Swain,,,,,,,,,,,,,,,0,7,0,on book,,84
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr463,Petter Stoutenbrough,,,,,Petter,,Stoutenbrough,,,,,,,,,,,,,,,0,15,0,,,180
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr464,Jacob Tremper,1,,Rhinebeck,,Jacob,,Tremper,,,,,,,,,,,,,,,0,10,0,,,120
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr257,Henry Shop,,,,,Henry,,Shop,,,,,,,,,,,,,,,0,6,0,,,72
+ID20,Joseph Higgins,2129,4,Account of Creditors,5,,1773,Creditor,cr466,John Wight,,,,,John,,Wight,,,,,,,,,,,,,,,0,4,0,,,48
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr467,John Paily,,merchant,,,John,,Paily,,,,,,,,,,,,,,,0,5,0,,,60
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr468,John Carman,,,Kingston,,John,,Carman,,,,,,,,,,,,,,,2,10,0,on note,,600
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr464,Jacob Tremper,,,Kingston,,Jacob,,Tremper,,,,,,,,,,,,,,,9,0,0,on execution,,2160
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr118,Evert Bogardus,,,Kingston,,Evred,,Burgrodus,,,,,,,,,,,,,,,2,0,0,on security,,480
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr471,Andrue Billings,,silversmith,Kingston,,Andrue,,Billings,,,,,,,,,,,,,,,1,5,0,,,300
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr472,Rowe,,,Kingston,,,,Rowe,,,,,,,,,,,,,,,2,7,0,,,564
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr473,,,Sadler,Kingston,,,,,,,,,,,,,,,,,,,1,12,0,,,384
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr474,Petter,,Gunsmith,Kingston,,Petter,,,,,,,,,,,,,,,,,1,8,0,,,336
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr475,John Manens,,,,,John,,Manens,,,,,,,,,,,,,,,3,5,0,,,780
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr476,Bornett Duches,,,,,Bornett,,Duches,,,,,,,,,,,,,,,1,0,0,,,240
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr477,Peeter Forever,,,,,Peeter,,Forever,,,,,,,,,,,,,,,2,3,0,on book,,516
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr478,Jacob Burgrodus,,,,,Jacob,,Burgrodus,,,,,,,,,,,,,,,21,0,0,on writt,,5040
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr479,Thomas Thobias,,,,,Thomas,,Thobias,,,,,,,,,,,,,,,2,2,6,,,510
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr480,Abraham Dates,,,,,Abraham,,Dates,,,,,,,,,,,,,,,4,5,0,,,1020
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr391,Teunis Van Benschoten,,,,,Tunas,,Benscouten,,,,,,,,,,,,,,,0,13,0,,,156
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr482,John Yerey,,,,,John,,Yerey,,,,,,,,,,,,,,,1,0,0,,,240
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr483,George Brinckerhoff,,,,,George,,Brincraft,,,,,,,,,,,,,,,2,15,0,on book,,660
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr484,Cline Ackerman,,,,,Cline,,Ackerman,,,,,,,,,,,,,,,1,3,0,,,276
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr485,Abraham Griggs,,,,,Abraham,,Griggs,,,,,,,,,,,,,,,2,15,0,,,660
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr486,John Scank,,"""And Co""",,,John,,Scank,,,,,,,,,,,,,,,0,10,8,on book,"""John Scank & co""",128
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr487,Isack Marcel,,,,,Isack,,Marcel,,,,,,,,,,,,,,,0,13,4,on note,,160
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr488,John Van Kleeck,,,,,John,,Van Kleck,,,,,,,,,,,,,,,1,13,0,on book,,396
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr489,Jonathan Lapham Sr.,,,,,Jonathan,,Lapham,Sr.,,,,,,,,,,,,,,1,1,6,on note,,258
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr490,James Brooks,,,,,James,,Brooks,,,,,,,,,,,,,,,25,0,0,"""secured by bill of sale of my goods""",,6000
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr491,Benjamin Bogardus,,,,,Benjamin,,Burgrodus,,,,,,,,,,,,,,,2,10,0,,,600
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr492,Henry Henrickson,,,,,Henry,,Henrickson,,,,,,,,,,,,,,,5,12,1.5,on book,,1345.5
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr493,Richard Willinson,,,,,Richard,,Willinson,,,,,,,,,,,,,,,2,5,0,on book,,540
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr122,Bartholomew Crannell Esq.,,,,,bartholomoy,,Cranel,,,,,,,,,,,,,,,4,0,0,,,960
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr217,Ananias Cooper,,Doctor,,,Ananias,,Cooper,,,,,,,,,,,,,,,,,,unknown,,
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr496,Lorow,,,,,Lorow,,,,,,,,,,,,,,,,,,,,unknown,,
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr497,Jonas Keelsey,,,,,Jonas,,Keelsey,,,,,,,,,,,,,,,,,,unknown,,
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr498,Jacabus Low,,,,,Jacabus,,Low,,,,,,,,,,,,,,,1,13,0,on book,,396
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr499,John Degrave,,,,,John,,DeGrave,,,,,,,,,,,,,,,0,10,0,on book,,120
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr500,Esckel Cooper,,,,,Esckel,,Cooper,,,,,,,,,,,,,,,0,13,0,,,156
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr501,John Macbride,,,,,John,,MacBride,,,,,,,,,,,,,,,0,1,4,,,16
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr502,William Furman,,,,,William,,Furman,,,,,,,,,,,,,,,0,4,0,,,48
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr503,Minard Van Klick,,,,,Minard,,Van Klick,,,,,,,,,,,,,,,,,,unknown,,
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr200,Leonard Van Kleeck,,,,,Lenard,,Van Klick,,,,,,,,,,,,,,,,,,unknown,,
+ID20,Joseph Higgins,2129,5,Account of Creditors,5,,1773,Creditor,cr505,Esa Reed,,,,,Esa,,Reed,,,,,,,,,,,,,,,,,,unknown,,
+ID20,Joseph Higgins,2129,6,Account of Creditors,5,,1773,Creditor,cr506,Samuel Curry,,,,,samuel,,curey,,,,,,,,,,,,,,,,0,2,6,,2
+ID20,Joseph Higgins,2129,6,Account of Creditors,5,,1773,Creditor,cr507,Abraham Swartwout Jr,,,,,Abraham,,Swartwout,Jr,,,,,,,,,,,,,,0,8,0,,,96
+ID20,Joseph Higgins,2129,6,Account of Creditors,5,,1773,Creditor,cr128,Cornelius Hendrickson,1,,,,curnolus,,Henreckson,,Cornelius Hendricks,,,,,,,,,,,,,,,,unknown,,
+ID20,Joseph Higgins,2129,7,Petition,4,15,1774,Creditor,cr509,Bordewine,1,,,,,,Bordewine,,,,,,,,,,,,,,,,,,"""executor of bordewine & account""",,
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr406,William Faillick,,,,,William,,Faillick,,,,,,,,,,,,,,,0,1,0,,,12
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr407,William Armstrong,,,,,William,,Armstrong,,,,,,,,,,,,,,,0,2,0,,,24
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr408,Sebrey Shoemaker,,,,,Sebrey,,Shoemaker,,,,,,,,,,,,,,,0,3,4.5,,,40.5
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr409,Joel Debois,,,,,Joel,,Debois,,,,,,,,,,,,,,,0,1,6,,,18
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr410,Isarah Ismond,,,,,Isarah,,Ismond,,,,,,,,,,,,,,,0,3,9,,,45
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr411,widow Bordewine,,,,widow,,,Bordewine,,,,,,,,,,,,,,,0,0,9,,,9
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr412,Joseph Bichshop,,,,,Joseph,,Bichshop,,,,,,,,,,,,,,,0,2,9,,,33
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr413,Jervis,,wight smith,,,Jervis,,,,,,,,,,,,,,,,,0,4,0,,,48
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr414,Waters,,taylor,,,Waters,,,,,,,,,,,,,,,,,0,7,9,,,93
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr415,Joseph Gail,,,,,Joseph,,Gail,,,,,,,,,,,,,,,0,1,8,,,20
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr416,Samuel North,,,,,Samuel,,North,,,,,,,,,,,,,,,0,7,6,,,90
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr417,Adam Smith Jr,,,,,Adam,,Smith ,Jr,,,,,,,,,,,,,,0,1,9,,,21
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr418,Stuffel Warth,,,,,Stuffel,,Warth,,,,,,,,,,,,,,,0,17,0,,,204
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr419,Otiteah Adams,,,,,Otiteah,,Adams,,,,,,,,,,,,,,,0,7,2,,,86
+ID20,Joseph Higgins,2129,3,Inventory,5,,1773,Debtor,dr420,Jeremih Joins,,,,,Jeremih,,Jones,,,,,,,,,,,,,,,,,,unsettled,,0
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr179,Cornelius Van Wyck,,,,,Cornalis,,Van Wayck,,,,,,,,,,,,,,,30,0,0,,,7200
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr511,Patrick Caryl,,,,,Patrick,,caryl,,,,,,,,,,,,,,,11,12,8,,,2792
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr512,Able Wickes,,,,,Able,,Wickes,,,,,,,,,,,,,,,16,0,0,,,3840
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr513,Bidjah Paterson,,,,,Bidjah,,Paterson,,,,,,,,,,,,,,,0,13,0,on note,,156
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr514,Daniel Ledow,,,,,Daniel,,Ledow,,,,,,,,,,,,,,,6,0,0,,,1440
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr515,John Bates,,,,,John,,Bates,,,,,,,,,,,,,,,0,15,0,,,180
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr387,John G. Brinckerhoff,,,,,John G.,,Brinckerhoff,,,,,,,,,,,,,,,0,15,0,,,180
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr517,William Terry,,,,,William,,Terry,,,,,,,,,,,,,,,,,,on note,,
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr518,John Wodd,,,,,John,,Wood,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr138,Dirck Brinckerhoff Esq.,,,,,Dirck,,Brinckerhoff,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr520,Abraham Brinckerhoff,,,,,Abraham,,Brinckerhoff,,,,,,,,,,,,,,,0,3,0,,,36
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr521,Daniel Brundage,,,,,Daniel,,Brundage,,,,,,,,,,,,,,,0,13,0,,,156
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr522,Lodlow Owen,,,,,Lodlow,,Owen,,,,,,,,,,,,,,,3,0,0,on note,,720
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr523,Eben Hall,,,,,eben,,Hall,,,,,,,,,,,,,,,0,18,0,,,216
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr524,Jonathan Travis,,,,,Jonathan,,travis,,,,,,,,,,,,,,,0,7,0,,,84
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr525,Daniel Pentin,,,,,Daniel,,Pentin,,,,,,,,,,,,,,,1,0,0,on note,,240
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr526,Jonathan Hopkins,,,,,Jonathan,,Hopkins,,,,,,,,,,,,,,,0,10,0,,,120
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr527,John Porter,,,,,John,,Porter,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr190,Daniel Hausbrook,,,,,daniel,,Hausbrook,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr529,Rosal Netelton,,,,,rosal,,Netelton,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr530,James Dickinson,,,,,James,,dickinson,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr531,John Rosakrons,,,,,John,,Rosakrons,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr199,Richard Warner,,,,,Richard,,warner,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr358,Benjaman Walsworth,,,,,Benjaman,,Walsworth,,,,,,,,,,,,,,,0,3,6,,,42
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr425,Isaac Sheldon,,,,,Isaac,,Sheldon,,,,,,,,,,,,,,,0,5,0,,,60
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr535,Cornalis Foller,,,,,Cornalis,,Foller,,,,,,,,,,,,,,,0,8,0,,,96
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr536,Joseph Ogden,,,,,Joseph,,Ogden,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,5,Account of Creditors,4,15,1774,Creditor,cr537,John Hallsted,,,,,John,,Hallsted,,,,,,,,,,,,,,,25,0,0,account unsettled,,6000
+ID21,Lewis Winter,9068,6,Account of Creditors,4,15,1774,Creditor,cr538,Moses Winter,,,,,Moses,,Winter,,,,,,,,,,,,,,,15,10,0,,,3720
+ID21,Lewis Winter,9068,6,Account of Creditors,4,15,1774,Creditor,cr539,Benjaman Rosakrow,,,,,Benjaman,,rosakrow,,,,,,,,,,,,,,,0,3,0,,,36
+ID21,Lewis Winter,9068,6,Account of Creditors,4,15,1774,Creditor,cr231,John Dewitt,,,,,John,,DeWitt,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,6,Account of Creditors,4,15,1774,Creditor,cr541,Nathanel Stone,,,,,Nathanel,,Stone,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,6,Account of Creditors,4,15,1774,Creditor,cr542,McClean 2,,,,,,,McClean,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,6,Account of Creditors,4,15,1774,Creditor,cr173,James Livingston Esq.,,,,,James,,Livingston,Esq.,,,,,,,,,,,,,,6,19,0,,,1668
+ID21,Lewis Winter,9068,6,Account of Creditors,4,15,1774,Creditor,cr544,James Wilsie,,,,,James,,Wilsie,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,6,Account of Creditors,4,15,1774,Creditor,cr122,Bartholomew Crannell Esq.,,,,,Bartholomew,,Crannell,esq,,,,,,,,,,,,,,,,,,,
+ID21,Lewis Winter,9068,6,Account of Creditors,4,15,1774,Creditor,cr546,John Gray Jr,,,,,John,,gray,jr,,,,,,,,,,,,,,0,14,0,,,168
+ID21,Lewis Winter,9068,6,Account of Creditors,4,15,1774,Creditor,cr547,Nathan Ronles,,,,,Nathan,,Ronles,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,6,Account of Creditors,4,15,1774,Creditor,cr538,Moses Winter,,,,,Moses,,Winter,,,,,,,,,,,,,,,,,,account unsettled,,
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr421,Nathanel Belays,,,,,Nathanel,,Belays,,,,,,,,,,,,,,,45,0,0,on note,,10800
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr422,Matthias Taylor,,,,,Matthias,,Taylor,,,,,,,,,,,,,,,30,12,0,on book,,7344
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr423,Nickleas Cowson,,,,,Nickleas,,Cowson,,,,,,,,,,,,,,,30,12,0,on book,,7344
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr159,Isaac Hatch,,,,,Isaac,,Hatch,,,,,,,,,,,,,,,14,0,0,on book,,3360
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr339,Lucas Carter,,,,,Lukis,,Carter,,,,,,,,,,,,,,,3,10,0,on book,,840
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr426,Peter Wallon,,,,,Peter,,Wallon,,,,,,,,,,,,,,,3,10,0,on book,,840
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr427,Abraham Case,,,,,Abraham,,Case,,,,,,,,,,,,,,,5,0,0,on book,,1200
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr428,George Schoat,,,,,george,,Schoat,,,,,,,,,,,,,,,5,0,0,on book,,1200
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr429,William Pricket,,,,,William,,Pricket,,,,,,,,,,,,,,,5,0,0,on book,,1200
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr430,Benjaman Cacham,,,,,Benjaman,,cacham,,,,,,,,,,,,,,,0,6,0,on book,,72
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr431,Benjaman Morss,,,,,Benjaman,,morss,,,,,,,,,,,,,,,2,2,6,on book,,510
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,cr518,John Wodd,,,,,John ,,Wood,,,,,,,,,,,,,,,6,6,0,,called Long John,1512
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr433,Lawrence Lawson,,,,,Lawrence,,Lawson,,,,,,,,,,,,,,,8,9,0,,,2028
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr214,John Lee,,,,,John ,,Lee,,,,,,,,,,,,,,,0,16,0,,,192
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr435,William Parant,,,,,William,,Parant,,,,,,,,,,,,,,,5,0,0,,,1200
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr436,Jeremiah Acker,,,,,Jeremiah,,Acker,,,,,,,,,,,,,,,3,0,0,,,720
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr144,John Rouse,,,,,John ,,rause,,,,,,,,,,,,,,,5,0,0,,,1200
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr438,Nickelis Young,,,,,Nickelis,,Young,,,,,,,,,,,,,,,10,0,0,,,2400
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr439,Peter Rise,,,,,Peter,,Rise,,,,,,,,,,,,,,,3,15,0,,,900
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr440,Daniel Ogden,,,,,daniel,,Ogden,,,,,,,,,,,,,,,2,10,0,,,600
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr441,Luce Woodard,,,,,Luce,,Woodard,,,,,,,,,,,,,,,30,0,0,on note with Interest,,7200
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr442,Richard Robison,,,,,Richard,,Robison,,,,,,,,,,,,,,,0,9,0,,,108
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr193,Neamiah Barlow,,,,,Naemiah,,barlow,,,,,,,,,,,,,,,0,17,6,,,210
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr420,Jeremih Joins,,,,,Jeremih,,Joins,,,,,,,,,,,,,,,9,0,0,account unsettled,,2160
+ID21,Lewis Winter,9068,3,Inventory,4,15,1774,Debtor,dr445,Nathaniel Gearns,,,,,Nathaniel,,Gearns,,,,,,,,,,,,,,,0,18,0,,,216
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr520,Abraham Brinckerhoff,1,,,,Abraham,,Brinckerhoff,,,,,,,,,,,,,,,23,0,0,,,5520
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr550,Robert Patton,1,,,,Robert,,Patton,,,,,,,,,,,,,,,24,0,0,on bill,,5760
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr551,Thomas Wolley,1,,,,Thomas,,Wolley,,Woolly,,,,,,,,,,,,,10,0,0,on bill,,2400
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr552,John Bloodgood,1,,,,John,,Bloodgood,,,,,,,,,,,,,,,9,13,3,on bill,,2319
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr553,Isaac Drake,1,,,,Isaac,,Drake,,,,,,,,,,,,,,,11,17,9,on bill,,2853
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr554,John Allgalt,1,,,,John,,Allgalt,,Johannis Algealt,,,,,,,,,,,,,21,9,8,on bill,,5156
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr555,George Britt,,,,,George,,Britt,,,,,,,,,,,,,,,12,0,0,,,2880
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr556,Daniel Carpenter,,,,,Daniel,,Carpenter,,,,,,,,,,,,,,,2,10,0,,,600
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr557,Daniel Terboss,,,,,daniel,,Terboss,,,,,,,,,,,,,,,6,0,0,,,1440
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr558,Ezeril Sniffins,,,,,Ezeril,,Sniffins,,,,,,,,,,,,,,,1,0,0,,,240
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr403,John Clemmens,,,,,John,,Climance,,,,,,,,,,,,,,,12,0,0,,,2880
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr138,Dirck Brinckerhoff Esq.,1,,New York,,Dirck,,Brinckerhoff,,,,,,,,,,,,,,,,,,,,
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr394,Chancey Graham,,,,,Chancey,,graham,,,,,,,,,,,,,,,1,0,0,,,240
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr187,Stephen Duryee,,,,,Stephen,,Duryea,,,,,,,,,,,,,,,2,8,0,,,576
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr68,Samuel Dorland,,,,,Samuel,,durland,,,,,,,,,,,,,,,2,0,0,,,480
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr564,Jonathan Haight,,,,,Jonathan,,Haight,,,,,,,,,,,,,,,2,0,0,,,480
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr518,John Wodd,,,,,John,,Wodd,,,,,,,,,,,,,,,1,0,0,,,240
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr566,Caleb Powel,,,,,Caleb,,Powel,,,,,,,,,,,,,,,0,10,0,,,120
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr375,John Schutt,,,,,John,,schutt,,,,,,,,,,,,,,,0,15,0,,,180
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr307,Henry Roukranse Jr,,,,,Henry,,Rosakreons,Jr,,,,,,,,,,,,,,,,,account unsettled,,
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr569,Hugh Conner,,,,,Hugh,,Conner,,,,,,,,,,,,,,,0,14,0,,,168
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr570,Isaac Hutchinson,,,,,Isaac,,hutchinson,,,,,,,,,,,,,,,3,0,0,,,720
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr571,Matthew Britt,,,,,Matthew,,Britt,,,,,,,,,,,,,,,,,,account unknown,,
+ID22,Jacobus C Swartwout,9089,7,Account of Creditors,4,15,1774,Creditor,cr572,Garret Rapalje,,,,,Garret,,Rapalje,,,,,,,,,,,,,,,6,11,3,,,1575
+ID22,Jacobus C Swartwout,9089,4,Inventory,4,15,1774,Debtor,dr446,Elizer Jourmans,,,,,Elizer,,jourmans,,,,,,,,,,,,,,,0,18,0,on book,,216
+ID22,Jacobus C Swartwout,9089,4,Inventory,4,15,1774,Debtor,dr447,widow Ball,,,,widow,,,Ball,,,,,,,,,,,,,,,0,2,6,,,30
+ID22,Jacobus C Swartwout,9089,4,Inventory,4,15,1774,Debtor,dr448,Timothy Pearce,,,,,Timothy,,Pearce,,,,,,,,,,,,,,,1,11,9,,,381
+ID22,Jacobus C Swartwout,9089,4,Inventory,4,15,1774,Debtor,dr449,Mr. Defennis,,,,Mr.,,,defennis,,,,,,,,,,,,,,,6,10,11.75,,,1571.75
+ID22,Jacobus C Swartwout,9089,4,Inventory,4,15,1774,Debtor,dr450,Abraham Weeks,,,,,Abraham,,Weeks,,,,,,,,,,,,,,,1,18,3,account unsettled,,459
+ID22,Jacobus C Swartwout,9089,4,Inventory,4,15,1774,Debtor,dr451,Britt 2,,,Rumbout,,,,Britt,,,,,,,,,,,,,,,0,10,0,,,120
+ID22,Jacobus C Swartwout,9089,4,Inventory,4,15,1774,Debtor,dr452,Thorn Pudney,,,,,Thorn,,Pudney,,,,,,,,,,,,,,,0,3,6,,,42
+ID22,Jacobus C Swartwout,9089,4,Inventory,4,15,1774,Debtor,dr453,Henry Barney,,,,,Henry,,barney,,,,,,,,,,,,,,,0,7,0,,,84
+ID22,Jacobus C Swartwout,9089,4,Inventory,4,15,1774,Debtor,dr454,Gilbart Weeks,,,,,Gilbart,,Weeks,,,,,,,,,,,,,,,2,4,6,account unsettled,,534
+ID22,Jacobus C Swartwout,9089,4,Inventory,4,15,1774,Debtor,dr455,John Colman,,,,,john,,Colman,,,,,,,,,,,,,,,0,11,0,,,132
+ID22,Jacobus C Swartwout,9089,4,Inventory,4,15,1774,Debtor,dr456,Amus Mills,,,,,Amus,,Mills,,,,,,,,,,,,,,,2,0,3,,,483
+ID22,Jacobus C Swartwout,9089,4,Inventory,4,15,1774,Debtor,dr457,Daniel Seamonds,,,,,Daniel,,Seamonds,,,,,,,,,,,,,,,2,13,0,,,636
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,cr179,Cornelius Van Wyck,,,,,Cornalias,,van Wayck,,,,,,,,,,,,,,,0,10,0,unsettled,,120
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr459,Francis Britt,,,Rumbout,,Francis,,Britt,,,,,,,,,,,,,,,4,0,0, account unsettled,,960
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr460,Stephen Shipman,,,,,Stephen,,Shipman,,,,,,,,,,,,,,,3,9,0,,,828
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr461,Brush,,Captain,,,,,Brush,,,,,,,,,,,,,,,1,17,9,,,453
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr462,George Bump,,,,,George,,Bump,,,,,,,,,,,,,,,0,1,0,,,12
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr463,Naemiah Odel,,,,,Naemiah,,Odel,,,,,,,,,,,,,,,0,10,0,,,120
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr464,John Folton,,,,,John,,Folton,,,,,,,,,,,,,,,0,1,0,,,12
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr465,Silas Lockerd,,,,,Silas,,Lockerd,,,,,,,,,,,,,,,0,13,0,,,156
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr165,Edward Dolf,,,,,Edward,,dolf,,,,,,,,,,,,,,,1,12,0,,,384
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr467,Isaac Nantine,,,,,Isaac,,nantine,,,,,,,,,,,,,,,2,18,10,,,706
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr468,Robert Alexander,,,,,Robert,,Alexander,,,,,,,,,,,,,,,0,13,6,,,162
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr469,John King,,,,,John,,King,,,,,,,,,,,,,,,0,4,6,,,54
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr470,Thomas Wright,,,,,Thomas,,Wright,,,,,,,,,,,,,,,0,5,0,,,60
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr471,Elisha Smith,,,,,Elisha,,Smith,,,,,,,,,,,,,,,0,13,0,,,156
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr472,Richard Dunavan,,,,,Richard,,Dunavan,,,,,,,,,,,,,,,0,6,0,,,72
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr473,Gabril Smith,,,,,Gabril,,Smith,,,,,,,,,,,,,,,0,8,6,,,102
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr474,John De Bell,,,,,John,,De Bell,,,,,,,,,,,,,,,5,0,0,on note with interest,,1200
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,cr175,Jacobus Depeyster,,,,,Jacobus,,depeyster,,,,,,,,,,,,,,,40,0,0,account unsettled,,9600
+ID22,Jacobus C Swartwout,9089,5,Inventory,4,15,1774,Debtor,dr476,John Mul,,,,,John,,Mul,,,,,,,,,,,,,,,0,5,0,,,60
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr179,Cornelius Van Wyck,1,,,,Cornules,,Van Wick,,Cornelius Van Vyck,,,,,,,,,,,,,18,0,0,on book,,4320
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr68,Samuel Dorland,,,,,Samuel,,Durling,,,,,,,,,,,,,,,19,0,0,on book,,4560
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr187,Stephen Duryee,,,,,Steveon,,Deryea,,,,,,,,,,,,,,,10,0,0,on book,,2400
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr138,Dirck Brinckerhoff Esq.,,,,,Derick,,Brenckraft,,,,,,,,,,,,,,,5,10,0,on book,,1320
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr564,Jonathan Haight,,Captain,,,jonathon,,Haight,,,,,,,,,,,,,,,5,0,0,on book,,1200
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr298,Stephen Thorn,,Doctor,,,Steven,,Thorn,,,,,,,,,,,,,,,2,0,0,on book,,480
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr351,Cornalus Osburn,,,,,Cornolus,,Osborn,,,,,,,,,,,,,,,0,4,0,on book,,48
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr580,Jeremiah Cooper,,,,,Jeremiah,,Cooper,,,,,,,,,,,,,,,1,0,0,on book,,240
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr581,Nichklas Mart.,,,,,Nichklas,,Mart.,,,,,,,,,,,,,,,0,5,2,on book,,62
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr582,Ruffus Green,,,,,Ruffus,,Green,,,,,,,,,,,,,,,7,0,0,on book,,1680
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr583,Jaccob Bloom,,,,,Jaccob,,Bloom,,,,,,,,,,,,,,,2,0,0,on book,,480
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr584,Obadiah Cooper,,,,,Obadiah,,Cooper,,,,,,,,,,,,,,,0,2,9,on book,,33
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr556,Daniel Carpenter,,,,,danel,,carpenter,,,,,,,,,,,,,,,,,,account unsettled,,
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr586,James Phillips,,,,,James,,Phillips,,,,,,,,,,,,,,,5,5,2,on book,,1262
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr587,Richard King,,,,,Richard,,King,,,,,,,,,,,,,,,0,8,0,on book,,96
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr588,Jaccob Mares,,,,,Jaccob,,mares,,,,,,,,,,,,,,,0,3,6,on book,,42
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr589,Moses Barber,,,,,Moses,,Barber,,,,,,,,,,,,,,,0,4,0,on book,,48
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr590,Samul Milles,,,,,samul,,Milles,,,,,,,,,,,,,,,0,8,0,on book,,96
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr591,Gerret Brinkerhoff,,,,,Gerret,,Brinkerhoff,,,,,,,,,,,,,,,0,10,0,,,120
+ID23,Peter Phillips,9091,2,Account of Creditors,4,15,1774,Creditor,cr592,James Frak,,,,,James,,frak,,,,,,,,,,,,,,,0,9,6,,,114
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr593,John Van Anda,,,,,John,,Van Anda,,,,,,,,,,,,,,,400,0,0,bond,,96000
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr593,John Van Anda,,,,,John,,Van Anda,,,,,,,,,,,,,,,300,0,0,on book unsettled,,72000
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr595,Gabriel Van Anda,,,,,Gabriel,,Van Anda,,,,,,,,,,,,,,,400,0,0,unsettled,,96000
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr596,John Earle,,,,,John,,Earle,,,,,,,,,,,,,,,7,0,0,,,1680
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr597,Nicholas Bartrum,,,,,Nicholas,,Bartrum,,,,,,,,,,,,,,,15,0,0,,,3600
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr598,Peter Port,,,,,Peter,,Port,,,,,,,,,,,,,,,5,0,0,,,1200
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr599,Garret Pock,,,,,garret,,Pock,,,,,,,,,,,,,,,3,4,0,,,768
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr600,Jacob Mallonbeck,,,,,Jacob,,Mallonbeck,,,,,,,,,,,,,,,5,0,0,unsettled,,1200
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr601,Isaac Mallonbeck,,,,,Isaac,,Mallonbeck,,,,,,,,,,,,,,,4,0,0,unsettled,,960
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr602,John Romine,,,,,John,,Romine,,,,,,,,,,,,,,,5,0,0,,,1200
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr603,David Simmons,,,,,David,,Simmons,,,,,,,,,,,,,,,16,0,0,,,3840
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr604,Charles Beekman,,,,,Charles,,Beekman,,,,,,,,,,,,,,,60,0,0,unsettled,,14400
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr605,John Burkisk,,,,,John,,Burkisk,,,,,,,,,,,,,,,0,16,0,,,192
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr606,Samuel Moor,,,,,Samuel,,Moore,,,,,,,,,,,,,,,8,0,0,,,1920
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr607,Stephen Burdek,,,,,Stephen,,Burdek,,,,,,,,,,,,,,,10,0,0,unsettled,,2400
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr608,Abraham Leyshere,,,,,Abraham,,Leyshere,,,,,,,,,,,,,,,3,0,0,,,720
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr609,Abraham Murray,,,,,Abraham,,Murray,,,,,,,,,,,,,,,,,,debt unknown,,
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr610,Carparus Siler,,,,,Carparus,,Siler,,,,,,,,,,,,,,,3,10,0,,,840
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr611,Jacobus Burkisk,,,,,Jacobus,,Burkisk,,,,,,,,,,,,,,,,,,debt unknown,,
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr612,William Proctor,,,,,William,,Proctor,,,,,,,,,,,,,,,21,0,0,,,5040
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr613,John Van Cortland,,,,,John,,van Cortland,,,,,,,,,,,,,,,30,0,0,,,7200
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr614,Gilbert Forbes,,,,,Gilbert,,Forbes,,,,,,,,,,,,,,,22,0,0,,,5280
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr615,William Gilbert,,,,,William,,Gilbert,,,,,,,,,,,,,,,30,0,0,,,7200
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr138,Dirck Brinckerhoff Esq.,,,,,Dirck,,brinckerhoff,,,,,,,,,,,,,,,30,0,0,,,7200
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr617,William Stetters,,,,,William,,Stetters,,,,,,,,,,,,,,,25,0,0,,,6000
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr618,,,French Doctor,New York,,,,,,,,,,,,,,,,,,,50,0,0,,,12000
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr619,James Curry,,,,,James,,Curry,,,,,,,,,,,,,,,84,0,0,,,20160
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr620,John Chin,,,,,John,,Chin,,,,cr808,Edward Chin,,,,,Edward,,Chin,,,700,0,0,unsettled,"""John & Edward Chin""",168000
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr621,Abraham Bareger,,,,,Abraham,,Bareger,,,,,,,,,,,,,,,5,0,0,,,1200
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr622,Barney Day,,,,,Barney,,day,,,,,,,,,,,,,,,,,,debt unknown,,
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr77,Isaac Conklin,,,,,Isaac,,coneklin,,,,,,,,,,,,,,,16,0,0,,,3840
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr148,Murray Lester,,,,,Murray,,Lester,,,,,,,,,,,,,,,15,0,0,,,3600
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr625,Myndert Van Kleeck,,,,,Myndert,,van kleeck,,,,,,,,,,,,,,,4,0,0,,,960
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr104,Clear Everitt,,,,,Clear,,Everett,,,,,,,,,,,,,,,,,,debt unknown,,
+ID24,Edward Simmons,9476C,1,Account of Creditors,4,25,1775,Creditor,cr627,John Degratt,,,,,John,,degratt,,,,,,,,,,,,,,,,,,debt unknown,,
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr628,Henry Beyaux,,,,,Henry,,Beyaux,,,,,,,,,,,,,,,,,,debt unknown,,
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr173,James Livingston Esq.,,,,,James,,Linvingston,,,,,,,,,,,,,,,14,0,0,,,3360
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr506,Samuel Curry,,,,,samuel,,curry,,,,,,,,,,,,,,,1,16,0,,,432
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr253,Peter Palmatier,,,,,Peter,,Palmatier,,,,,,,,,,,,,,,,,,debt unknown,,
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr632,Maurice Smith,1,,,,Maurice,,Smith,,,,,,,,,,,,,,,1,10,0,,,360
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr633,Seaford,,,,Mr,,,Seaford,,,,,,,,,,,,,,,2,10,0,,,600
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr634,,,,Albany,,,,,,,,,,,,,,,,,,,10,0,0,"""of Albany money I borrowed""",,2400
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr635,James Bogs,,,,,James,,Bogs,,,,,,,,,,,,,,,10,0,0,,,2400
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr131,Benjamin Franch,1,,,,benjamin,,french,,,,,,,,,,,,,,,9,0,0,,,2160
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr637,Thomas Smith Dimont,,,,,thomas,Smith,Dimont,,,,,,,,,,,,,,,4,12,0,,,1104
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr638,John Barber,,,,,John,,Barber,,,,,,,,,,,,,,,4,10,0,,,1080
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr639,Joseph Norris,,,,,Joseph,,Norris,,,,,,,,,,,,,,,2,0,0,,,480
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr640,John Burnam,,,,,John,,Burnam,,,,,,,,,,,,,,,23,0,0,,,5520
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr641,Elijah Russell,,,,,Elijah,,Russell,,,,,,,,,,,,,,,50,0,0,unsettled,,12000
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr642,Bargerer,,,,Mr,,,Bargerer,,,,,,,,,,,,,,,8,0,0,,,1920
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr643,Simeon Covel,,,,,Simeon,,covell,,,,,,,,,,,,,,,10,0,0,,,2400
+ID24,Edward Simmons,9476C,2,Account of Creditors,4,25,1775,Creditor,cr644,John Proteus,,,,,John,,Proteus,,,,,,,,,,,,,,,5,0,0,,,1200
+ID24,Edward Simmons,9476B,,Petition,4,25,1775,Creditor,cr645,Nathaniel Simmons,1,,,,Nathaniel,,Simmons,,,,,,,,,,,,,,,,,,,,
+ID24,Edward Simmons,9476,,Inventory,4,25,1775,Debtor,dr477,John Wasnson,,,,,John,,Wasnson,,,,,,,,,,,,,,,300,0,0,on bond in James Livingston's hands,,72000
+ID24,Edward Simmons,9476,,Inventory,4,25,1775,Debtor,dr478,Lawrence Van Arder,,,,,Lawrence,,Van Arder,,,,,,,,,,,,,,,7,0,0,note,,1680
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr118,Evert Bogardus,1,,,,Everardus,,Bogardus,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr427,John Simmons,1,,,,John,,Simmons,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr220,William Radley,1,,,,William,,Radley,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr8,John William,,,,,John,,William,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr206,Tobias Elmendorph,,,,,Tobias,,Elmendorph,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr651,John Rutsen,,,,,John,,Rutsen,,,,,,,,,,,,,,,,,,deceased,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr652,Zacharis Hoffman,,,,,Zacharis,,Hoffman,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr653,George Sharp,,,,,George,,Sharp,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr654,Philip Pinck,,,,,Philip,,Pinck,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr655,Simon Urstfall,,,,,Simon,,Urstfall,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr656,George Mead,,,,,George,,Mead,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr657,Philip Lown,,,,,Philip,,Lown,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr658,Evans Dean,,,,,Evans,,dean,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr659,Elijah Lake,,,,,Elijah,,Lake,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr660,Norman Jewell,,,,,Norman,,Jewell,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr661,Eliphaleb Fish,,,,,Eliphaleb,,Fish,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr662,Henry Crankhite,,,,,Henry,,Crankhite,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr287,David Southerland,,,,,David,,Southerland,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr124,Joseph Carpenter,,,,,Joseph,,carpenter,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr491,Benjamin Bogardus,,,,,Benjamin,,bogardus,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr517,William Terry,,,,,William,,Terry,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr667,Jonas Parks,,,,,Jonas,,Parks,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr668,Joseph Mabbitt,,,,,Joseph,,Mabbitt,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr669,Seth Fish,,,,,Seth,,Fish,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr670,Roger Schemerhorn,,,,,Roger,,Schemerhorn,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr671,Hendrick Sharp,,,,,Hendrick,,Sharp,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr672,David Lions,1,,,,david,,Lions,,Lyons,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr216,Hendrick Tater,,,,,Hendrick,,Tater,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr165,Melancton Smith,,,,,Melancton,,Smith,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr675,John Tremper,,,,,John,,Tremper,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr448,John Steenburgh,,,,,John,,Steenburgh,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr464,Jacob Tremper,,,,,Jacob,,tremper,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr678,Francis Bogardus,,,,,Francis,,Bogardus,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr679,William Scott,,,,,William,,Scott,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr680,Richard Bartlet,,,,,Richard,,Bartlet,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr83,Cornelius Humphrey Esq.,,,,,Cornelius,,Humphry,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr682,John Altbright,,,,,JOhn,,Albright,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr683,Stuffele King,,,,,Stuffele,,King,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr684,Caleb Smith,,,,,caleb,,Smith,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr98,Isaac Smith,,,,,Isaac,,Smith,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr686,Sephen Haight,,,,,Sephen,,Haight,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr687,George Snuvfalh,,,,,George,,Snuvfalh,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr688,Luban Coundell,,,,,Luban,,Coundell,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr410,John Davis,,gardener,,,John,,Davis,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr690,Elisha Culver Esq.,,,,,Elisha,,Culver,Esq.,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr691,Henry Birckram Jr,,,,,Henry,,Birckram,jr,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr692,James Smith,,,,,James,,Smith,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr693,Nathaniel Mead,,,,,Nathaniel,,Mead,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,1,Account of Creditors,4,25,1775,Creditor,cr694,Henry Soper,,,,,Henry,,Soper,,,,,,,,,,,,,,,,,,,,
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr29,John Willson,,merchant,,,John,,Willson,,,,,,,,,,,,,,,30,17,9,,,7413
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr480,Sam Nuly,,,,,Sam,,Nuly,,,,,,,,,,,,,,,2,12,0,,,624
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr481,David Stendivent,,,,,David,,Stendivent,,,,,,,,,,,,,,,0,15,11,,,191
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr482,John Greger,,,,,John,,Greger,,,,,,,,,,,,,,,5,0,0,,,1200
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr483,Jeremiah Smith,,,,,Jeremiah,,smith,,,,,,,,,,,,,,,0,1,0,,,12
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr484,John Sisson,,,,,John,,sisson,,,,,,,,,,,,,,,0,8,0,,,96
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr485,James Carte,,,,,James,,Carte,,,,dr486,Mary Byse,,,,,Mary,,Byse,,,4,7,0,on note,"""James Carte & Mary Byse on note""",1044
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr486,Mary Byse,,,,,Mary,,Byse,,,,,,,,,,,,,,,0,9,0,,,108
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr487,Jabes Finch,,,,,Jabes,,finch,,,,,,,,,,,,,,,0,9,0,,,108
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr488,Timothy Soper,,,,,Timothy,,soper,,,,,,,,,,,,,,,0,2,6,,,30
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,ID29,Frederick Kline,,,,,Frederick,,Kline,,,,,,,,,,,,,,,0,17,10,,,214
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,ID15,Gerrardus Lewis,,,,,Gradus,,Lewis,,,,,,,,,,,,,,,3,18,0,,,936
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr491,Mary Eyresh,,,,,Mary,,Eyresh,,,,,,,,,,,,,,,0,5,0,,,60
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr492,Stephen Quimbe,,,,,Stephen,,Quimbe,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,0
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr493,Caleb Paddick,,,,,Caleb,,Paddick,,,,,,,,,,,,,,,0,2,6,,,30
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr494,John Gripin,,,,,John,,Gripin,,,,,,,,,,,,,,,0,2,0,,,24
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr495,James Nidden,,Doctor,,,James,,Nidden,,,,,,,,,,,,,,,0,4,6,,,54
+ID25,Lewis Bogardus,9307,2,Inventory,4,25,1775,Debtor,dr496,Peter Tenbrook,,,,,Peter,,Tenbrook,,,,,,,,,,,,,,,0,4,0,,,48
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr384,Johannis Shurry,,,,,Johannis,,Shurry,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr187,Stephen Duryee,,,,,Stephen,,Duryee,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr697,James Nicks,,,,,James,,Nicks,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr138,Dirck Brinckerhoff Esq.,,,,,dirck,,Brinckerhohff,Esq.,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr699,Peter Naff,,,,,Peter,,Naff,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr700,Richard Snedeker,,,,,Richard,,Snedeker,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr701,Rodolphus Swartwout,,,,,Rodolphus,,Swartwout,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr391,Teunis Van Benschoten,,,,,Teunis,,Van Benschoten,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr298,Stephen Thorn,,,,,Stephen,,thorn,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr704,Amos Fellows,,,,,Amos,,Fellows,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr127,John Bleecker,,,,,John,,Bleecker,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr706,John Osborn,,,,,John,,Osborn,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr707,Obediah Cooper Jr.,,,,,Obediah,,cooper,jr,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr490,James Brooks,,,,,James,,Brooks,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr387,John G. Brinckerhoff,,,,,John,G.,Brinckerhohff,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr710,Lewis Duboys,,,,,Lewis,,Duboys,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr711,Henry Bailey,,,,,Henry,,Bailey,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr712,Platt,,,,Dr,,,Platt,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr713,Justice Sherwood,,,,,Justice,,Sherwood,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr714,John Myarr,,,,,John,,Myarr,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr715,John Child,,,,,John,,Child,,,,,,,,,,,,,,,,,,account unsettled debt unknown,,
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr716,Timothy Nicks,,,,,Timothy,,Nicks,,,,,,,,,,,,,,,35,0,0,,,8400
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr717,Peter Nallock,,,,,Peter,,Nallock,,,,,,,,,,,,,,,0,12,0,,,144
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr436,John Crandell,,,,,John,,Crandell,,,,,,,,,,,,,,,12,0,0,note,,2880
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr719,Jacobus Middah,,,,,Jacobus,,Middah,,,,,,,,,,,,,,,22,0,0,,,5280
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr483,George Brinckerhoff,,,,,George,,brinckerhoff,,,,,,,,,,,,,,,10,15,10,,,2590
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr425,Isaac Sheldon,1,,,,Isaac,,Shelldon,,,,,,,,,,,,,,,4,15,1,,,1141
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr722,Thadeus Botts,1,,,,Thadeus,,Botts,,,,,,,,,,,,,,,16,15,4,,,4024
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr723,Thomas Dunn,,,,,Thomas,,Dunn,,,,,,,,,,,,,,,22,10,0,bond,,5400
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr724,Cornelius Rapalje,,,,,Cornelius,,Rapalje,,,,,,,,,,,,,,,55,12,0.5,judgment,,13344.5
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr724,Cornelius Rapalje,1,,,,Cornelius,,Rapalje,,,,,,,,,,,,,,,10,0,0,note,,2400
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr726,John Bell,,,,,John,,Bell,,,,,,,,,,,,,,,0,15,9,,,189
+ID26,Jeremiah Jones,9344,3,account of creditors,4,25,1775,Creditor,cr727,David Dean,,,,,david,,Dean,,,,,,,,,,,,,,,7,0,0,bond,,1680
+ID26,Jeremiah Jones,9344,4,account of creditors,4,25,1775,Creditor,cr307,Henry Roukranse Jr,,,,,Henry,,Roukranu,Jr,,,,,,,,,,,,,,2,0,0,,,480
+ID26,Jeremiah Jones,9344,4,account of creditors,4,25,1775,Creditor,cr729,Isaac Brewer,1,,,,Isaac,,Brewer,,,,,,,,,,,,,,,5,1,1,,,1213
+ID26,Jeremiah Jones,9344,4,account of creditors,4,25,1775,Creditor,cr730,Johannis Van Kleeck,,,,,Johannis,,Van Kleeck,,,,,,,,,,,,,,,2,17,8,,,692
+ID26,Jeremiah Jones,9344,4,account of creditors,4,25,1775,Creditor,cr279,John Van Steenbergh,1,,,,John,,Van Steenbergh,,,,,,,,,,,,,,,2,8,5,,,581
+ID26,Jeremiah Jones,9344,4,account of creditors,4,25,1775,Creditor,cr632,Maurice Smith,,,,,Maurice,,Smith,,,,,,,,,,,,,,,0,8,0,,,96
+ID26,Jeremiah Jones,9344,4,account of creditors,4,25,1775,Creditor,cr733,John Jewell,,,,,John,,Jewell,,,,,,,,,,,,,,,2,0,0,,,480
+ID26,Jeremiah Jones,9344,4,account of creditors,4,25,1775,Creditor,cr734,George Jewell,,,,,george,,Jewell,,,,,,,,,,,,,,,2,0,0,,,480
+ID26,Jeremiah Jones,9344,4,account of creditors,4,25,1775,Creditor,cr369,Abraham Lent,,,,,Abraham,,Lent,,,,,,,,,,,,,,,1,4,8,,,296
+ID26,Jeremiah Jones,9344,4,account of creditors,4,25,1775,Creditor,cr736,David Mcmarten,,,,,david,,McMarten,,,,,,,,,,,,,,,5,0,0,,,1200
+ID26,Jeremiah Jones,9344,4,account of creditors,4,25,1775,Creditor,cr737,Mary Beyle,,,,,Mary,,Beyle,,,,,,,,,,,,,,,,,,debt unknown,,
+ID26,Jeremiah Jones,9344,4,account of creditors,4,25,1775,Creditor,cr738,Piggy Krank,,,,,Piggy,,Krank,,,,,,,,,,,,,,,,,,debt unknown,,
+ID26,Jeremiah Jones,9344,1,petition,4,25,1775,Creditor,cr488,John Van Kleeck,1,,,,John,,Van Kleeck,,,,,,,,,,,,,,,,,,,,
+ID26,Jeremiah Jones,9344,1,petition,4,25,1775,Creditor,cr740,James Middah,1,,,,James,,Middah,,,,,,,,,,,,,,,,,,,,
+ID26,Jeremiah Jones,9344,1,petition,4,25,1775,Creditor,cr290,William Humphrey,1,,,,William,,Humphrey,,,,,,,,,,,,,,,,,,,,
+ID26,Jeremiah Jones,9344B,1,account of debts,5,26,1774,Debtor,cr724,Cornelius Rapalje,,,,,Cornelus,,Rapalje,,,,,,,,,,,,,,,71,0,0,,(account book with debts owing to him) ,17040
+ID26,Jeremiah Jones,9344A,1,bill of sale,10,14,1772,Debtor,dr498,William Willson,,Weaver,Poughkeepsie,,William,,Willson,,,,,,,,,,,,,,,30,0,0,bill of sale of loom and other goods ,,7200
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr742,Robert Ellis,,,,,Robert,,Ellis,,,,,,,,,,,,,,,34,8,0,on judgement,,8256
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr307,Henry Roukranse Jr,,,,,Henry,,Roukranse,Jr,,,,,,,,,,,,,,8,15,9,,,2109
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr124,Joseph Carpenter,,,,,Joseph,,Carpenter,,,,,,,,,,,,,,,5,17,9,,,1413
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr745,Christian Tobias Jr,,,,,Christian,,Tobias,Jr,,,,,,,,,,,,,,4,0,0,,,960
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr165,Melancton Smith,,,,,Melancton ,,Smith,,,creditor,cr140,Samuel Smith,,,,,Samuel,,Smith,,,2,0,0,,,480
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr287,David Southerland,,,,,David,,Sutherland,,,,,,,,,,,,,,,1,1,4,,,256
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr748,Elijah Brownel,,,,,Elijah,,Brownel,,,,,,,,,,,,,,,1,0,0,,,240
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr749,Cornelius Humphrey Jr.,,,,,Cornelius,,Humphrey,Jr.,,,,,,,,,,,,,,0,8,0,,,96
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr750,Michel Case,,,,,Michel,,Case,,,,,,,,,,,,,,,0,10,0,,,120
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr751,John Reyna,,,,,John,,reyna,,,,,,,,,,,,,,,0,6,10,,,82
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr752,Elizabeth Mead,1,,,,Elizabeth,,Mead,,,,,,,,,,,,,,,5,0,0,,,1200
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr223,George Fraligh,,,,,George,,Freligh,,,,,,,,,,,,,,,1,10,0,,,360
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr754,Silas Annon,,,,,Silas,,Annon,,,,,,,,,,,,,,,1,4,0,,,288
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr755,Samuel Burlingham,,,,,samuel,,Burlingham,,,,,,,,,,,,,,,0,14,0,,,168
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr756,Ephraim Starr,1,,,,Ephraim,,Starr,,,,,,,,,,,,,,,,,,debt unknown,,
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr757,Henry Livingston,,,,,Henry,,Livingston,,,,,,,,,,,,,,,,,,debt unknown,,
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr758,Benoni Bradner,,,,,Benoni,,Bradner,,,,,,,,,,,,,,,0,5,0,,,60
+ID27,Isaac Finch,9546,3,Account of Creditors,4,25,1775,Creditor,cr759,John Finch,,,,,John,,Finch,,,,,,,,,,,,,,,,,,debt unknown,,
+ID27,Isaac Finch,9546,1,Petition,4,25,1775,Creditor,cr760,Phillip I Livingston,1,,,,Phillip I,,Livingston,,,,,,,,,,,,,,,,,,,,
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr499,Mangh Rull,,,,,Mangh,,Rull,,,,,,,,,,,,,,,0,15,0,,,180
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr500,Silas Miller,,,,,Silas,,Miller,,,,,,,,,,,,,,,1,17,10,,,454
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr501,Daniel Perish,,,,,Daniel,,Perish,,,,,,,,,,,,,,,0,7,0,,,84
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr502,Jonathan Lake,,,,,Jonathan,,Lake,,,,,,,,,,,,,,,0,0,10,,,10
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,cr140,Samuel Smith,,,,,Samuel,,Smith,,,,,,,,,,,,,,,0,6,3,,,75
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,cr521,Daniel Brundage,,,,,Daniel,,Brundage,,,,,,,,,,,,,,,0,7,0,note,,84
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr505,Zebulon Crane,,,,,Zebulon,,Crane,,,,,,,,,,,,,,,1,5,6,unsettled,,306
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr506,Samuel Buman,,,,,Samuel,,Buman,,,,,,,,,,,,,,,0,3,0,,,36
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr507,Joseph Morrow,,,,,Joseph,,Morraw,,,,,,,,,,,,,,,0,9,0,,,108
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr508,Abijah Bukeh,,,,,Abijah,,Bukeh,,,,,,,,,,,,,,,0,19,1,,,229
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr509,Vincent Simkins,,,,,Vincent,,Simkins,,,,,,,,,,,,,,,0,11,6,,,138
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr510,James Dorey,,,,,James,,Dorey,,,,,,,,,,,,,,,0,3,0,,,36
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr511,Thomas Wilkinson,,,,,Thomas,,Wilkinson,,,,,,,,,,,,,,,0,1,0,,,12
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,cr606,Samuel Moor,,,,,Samuel,,Moor,,,,,,,,,,,,,,,0,2,0,,,24
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr513,Abraham Swartwout,,,,,Abraham,,Swartwout,,,,,,,,,,,,,,,0,2,0,,,24
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr514,John Fit Simmons,,,,,John,,Fit Simmons,,,,,,,,,,,,,,,0,17,6,unsettled,,210
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr515,John Seidmore,,,,,John,,Seidmore,,,,,,,,,,,,,,,3,6,0,unsettled,,792
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr516,Reuben Lay,,,,,Reuben,,Lay,,,,,,,,,,,,,,,0,0,9,,,9
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr517,David Boyee,,,,,David,,Boyee,,,,,,,,,,,,,,,0,0,6,,,6
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr518,Joseph Ferris,,,,,Joseph,,Ferris,,,,,,,,,,,,,,,0,10,0,,,120
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr519,Philip Mead,,,,,Philip,,Mead,,,,,,,,,,,,,,,0,9,0,,,108
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr520,James Ingerroll,,,,,James,,Ingerroll,,,,,,,,,,,,,,,2,0,6,unsettled,,486
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr521,William Mcguire,,,,,William,,McGuire,,,,,,,,,,,,,,,1,1,9,,,261
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr522,George Thomas Jr.,,,,,George,,Thomas ,Jr.,,,,,,,,,,,,,,0,4,6,,,54
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr523,Sima Brewer,,,,,sima,,brewer,,,,,,,,,,,,,,,0,0,8,,,8
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr524,Isaac Winans,,,,,Isaac,,winans,,,,,,,,,,,,,,,1,2,0,,,264
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr525,John Palmatier,,,,,JOhn,,Palmatier,,,,,,,,,,,,,,,0,6,0,,,72
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,cr98,Isaac Smith,,,,,Isaac,,Smith,,,,,,,,,,,,,,,0,5,6,,,66
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr527,Thomas Fish,,,,,Thomas,,Fish,,,,,,,,,,,,,,,0,14,0,unsettled,,168
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr528,Joseph Knapp,,,,,Joseph,,Knapp,,,,,,,,,,,,,,,9,0,8,unsettled,,2168
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr529,Peter Roberts,,,,,Peter,,Roberts,,,,,,,,,,,,,,,0,3,0,,,36
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr530,Joseph Baker,,,,,Joseph,,Baker,,,,,,,,,,,,,,,1,9,1,unsettled,,349
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr531,Jacob Finch,,,,,Jacob,,Finch,,,,,,,,,,,,,,,2,11,0,,,612
+ID27,Isaac Finch,9546,4,Inventory,4,25,1775,Debtor,dr532,Enos Tubs,,,,,Enos,,Tubs,,,,,,,,,,,,,,,1,1,6,unsettled,,258
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr344,John Brown,,,,,John,,Brown,,,,,,,,,,,,,,,0,13,9,,,165
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr534,Gideon Potter,,,,,Gideon,,Potter,,,,,,,,,,,,,,,0,2,0,,,24
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,cr596,John Earle,,,,,JOhn,,earle,,,,,,,,,,,,,,,0,13,0,unsettled,,156
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr536,Jesse Doud,,,,,Jesse,,Doud,,,,,,,,,,,,,,,0,11,0,,,132
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr537,John Seidmore Jr.,,,,,John,,Seidmore ,Jr.,,,,,,,,,,,,,,0,2,9,,,33
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr538,James White,,,,,James,,White,,,,,,,,,,,,,,,0,17,10,,,214
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr539,John Sissell,,,,,John,,sissell,,,,,,,,,,,,,,,0,7,0,,,84
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr540,Benjamin Potter,,,,,Benjamin,,Potter,,,,,,,,,,,,,,,0,8,0,,,96
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr541,Henry Bulles,,,,,Henry,,Bulles,,,,,,,,,,,,,,,0,6,0,,[torn],72
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr542,William Nokins,,,,,William,,Nokins,,,,,,,,,,,,,,,0,5,0,,,60
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr507,Joseph Morrow,,,,,Joseph,,Morrow,,,,,,,,,,,,,,,0,9,0,,,108
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr544,David Wilkinson,,,,,david,,Wilkinson,,,,,,,,,,,,,,,0,2,0,,,24
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr545,Peter Ousterhout,,,,,Peter,,Ousterhout,,,,,,,,,,,,,,,1,17,0,note,,444
+ID27,Isaac Finch,9546,5,Inventory,4,25,1775,Debtor,dr546,Johial Palmer,,,,,Johial,,Palmer,,,,,,,,,,,,,,,39,8,0,,,9456
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr584,Obadiah Cooper,1,,,,Obadiah,,Cooper,,Coopper,,,,,,,,,,,,,,,,debt unknown,,
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr157,Jonathan Lewis,1,,,,Jonathan,,Lewis,,,,,,,,,,,,,,,,,,debt unknown,,
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr763,Maurice Graham,1,,,,Maurice,,Graham,,Morris,,,,,,,,,,,,,,,,debt unknown,,
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr700,Richard Snedeker,1,,,,Richard,,Snedicker,,Snediker,,,,,,,,,,,,,15,0,0,,,3600
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr765,Isaac Bloom,,,,,Isaac,,Bloom,,,,,,,,,,,,,,,3,1,0,,,732
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr766,Zachariah Marrhall,,,,,Zachariah,,Marrhall,,,,,,,,,,,,,,,0,16,0,,,192
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr767,Admer Carmund,,,,,Admer,,Carmund,,,,,,,,,,,,,,,0,14,0,,,168
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr768,Mathias B. Miller,,,,,Mathias,B.,Miller,,,,,,,,,,,,,,,0,19,0,,,228
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr769,Thomas Carty,,,,,Thomas,,carty,,,,,,,,,,,,,,,1,1,0,,,252
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr682,John Altbright,,,,,Johannis,,Altbright,,,,,,,,,,,,,,,0,5,0,,,60
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr771,John Hoghtalin,,,,,John,,Hoghtalin,,,,,,,,,,,,,,,5,0,0,,,1200
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr772,William Carrol,,,,,William,,Carrol,,,,,,,,,,,,,,,0,12,0,,,144
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr68,Samuel Dorland,,,,,Samuel,,Durling,,,,,,,,,,,,,,,0,8,0,,,96
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr774,Cornelius Bogardus,,,,,Cornelius,,Bogardus,,,,,,,,,,,,,,,2,10,0,,,600
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr564,Jonathan Haight,,,,,Jonathan,,Haight,,,,,,,,,,,,,,,2,15,0,,,660
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr707,Obediah Cooper Jr.,,,,,Obediah,,cooper,Jr.,,,,,,,,,,,,,,9,10,0,,,2280
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr777,Thomas Sisell,,,,,Thomas,,sisell,,,,,,,,,,,,,,,,,,debt unknown,,
+ID28,Frayer Terboss,9594,5,Account of Creditors,4,25,1775,Creditor,cr658,Evans Dean,,,,,Evans,,dean,,,,,,,,,,,,,,,0,2,6,,,30
+ID28,Frayer Terboss,9594,7,Inventory,4,25,1775,Debtor,dr547,Nehemiah Smith,,,,,Nehemiah,,Smith,,,,,,,,,,,,,,,0,11,0,,,132
+ID28,Frayer Terboss,9594,7,Inventory,4,25,1775,Debtor,dr548,Aaron Hill,,,,,Aaron,,Hill,,,,,,,,,,,,,,,11,14,9,,,2817
+ID28,Frayer Terboss,9594,7,Inventory,4,25,1775,Debtor,dr549,Jonas Terboss,,,,,Jonas,,terboss,,,,,,,,,,,,,,,0,12,5,,,149
+ID28,Frayer Terboss,9594,7,Inventory,4,25,1775,Debtor,dr550,Frederick Frayer,,,,,Frederick,,frayer,,,,,,,,,,,,,,,0,3,6,,,42
+ID28,Frayer Terboss,9594,7,Inventory,4,25,1775,Debtor,cr557,Daniel Terboss,,,,,Daniel,,terboss,,,,,,,,,,,,,,,0,1,0,,[torn] ,12
+ID28,Frayer Terboss,9594,7,Inventory,4,25,1775,Debtor,cr397,Isaac Terboss,,,,,Isaac,,terboss,,,,,,,,,,,,,,,0,6,5,,,77
+ID28,Frayer Terboss,9594,7,Inventory,4,25,1775,Debtor,dr553,Mosus Gale,,,,,Mosus,,gale,,,,,,,,,,,,,,,0,1,0,,,12
+ID28,Frayer Terboss,9594,7,Inventory,4,25,1775,Debtor,dr554,John H. Hight,,,,,John,H.,Hight,,,,,,,,,,,,,,,61,9,0,,,14748
+ID28,Frayer Terboss,9594,7,Inventory,4,25,1775,Debtor,dr555,Thomas Rodman,,,,,Thomas,,Rodman,,,,,,,,,,,,,,,0,4,6,,,54
+ID28,Frayer Terboss,9594,7,Inventory,4,25,1775,Debtor,dr556,Joseph Bananburgh,,,,,Joseph,,Bananburgh,,,,,,,,,,,,,,,27,11,6,unsettled,,6618
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr118,Evert Bogardus,,,,,Everardus,,Bogardus,,,,,,,,,,,,,,,1,0,0,,,240
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr220,William Radley,,,,,William,,Radley,,,,,,,,,,,,,,,1,0,0,,,240
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr781,Lawrence Fecle,,,,,Lawrence,,Fecle,,,,,,,,,,,,,,,0,18,0,,,216
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr218,Gitteman,,,,Dr,,,Gitteman,,,,,,,,,,,,,,,0,18,0,,,216
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr229,Isaac Kip,,,,,Isaac,,Kip,,,,,,,,,,,,,,,0,16,0,,,192
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr784,John Writh,,,,,JOhn,,Writh,,,,,,,,,,,,,,,5,10,0,,,1320
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr785,Philip Lott,,,,,Philip,,Lott,,,,,,,,,,,,,,,9,0,0,,,2160
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr257,Henry Shop,,,,,Henry,,Shop,,,,,,,,,,,,,,,0,14,0,,,168
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr787,John Gispee,,,,,John,,Gispee,,,,,,,,,,,,,,,7,0,0,,,1680
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr250,William Ludlow,,,,,William,,Ludlow,,,,,,,,,,,,,,,7,0,0,,,1680
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr789,Frederick Shaver,,,,,Frederick,,Shaver,,,,,,,,,,,,,,,15,0,0,,,3600
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr280,Christopel King,,,,,Cristiffell,,King,,,,,,,,,,,,,,,0,16,0,,,192
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr791,William Barne,,,,,William,,Barne,,,,,,,,,,,,,,,0,9,0,,,108
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr792,Hindrick Cepelback,,,,,Hindrick,,cepelback,,,,,,,,,,,,,,,1,5,0,,,300
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr656,George Mead,,,,,George,,Mead,,,,,,,,,,,,,,,0,8,0,,,96
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr88,William Clum,,,,,William,,Clum,,,,,,,,,,,,,,,4,10,0,,,1080
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,ID25,Lewis Bogardus,,,,,Lewis,,Bogardus,,,,,,,,,,,,,,,0,17,10,,,214
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr92,Philip Jacobs,,,,,Philip,,Jacubs,,,,,,,,,,,,,,,9,0,0,,,2160
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr223,George Fraligh,1,,,,George,,Freligh,,,,,,,,,,,,,,,5,0,0,,,1200
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr216,Hendrick Tater,,,,,Hendrick,,Tates,,,,,,,,,,,,,,,0,8,0,,,96
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr231,John Dewitt,,,,,john,,dewitt,,,,,,,,,,,,,,,0,16,0,,,192
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr800,Peter Vanatter,,,,,Peter,,Vanatter,,,,,,,,,,,,,,,0,9,0,,,108
+ID29,Frederick Klien,9596,5,Account of Creditors,4,25,1775,Creditor,cr801,Hendrick Schriver,,,,,Hendrick,,Schriver,,,,,,,,,,,,,,,1,4,0,,,288
+ID29,Frederick Klien,9596,3,Petition,4,25,1775,Creditor,cr307,Henry Roukranse Jr,1,,,,Henry,,Rouckranse,Jr,,,,,,,,,,,,,,,,,,,
+ID29,Frederick Klien,9596,7,Inventory,4,25,1775,Debtor,cr206,Tobias Elmendorph,,,,,Tobias,,Elmendorph,,,,,,,,,,,,,,,17,0,0,unsettled,,4080
